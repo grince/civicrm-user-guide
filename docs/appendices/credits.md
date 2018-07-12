@@ -1,21 +1,21 @@
-# Credits
+# Danksagungen
 
-Since 2016 this book has been maintained in Github. Refer to https://github.com/civicrm/civicrm-user-guide/graphs/contributors for a list of contributors since then.
+Seit 2016 wird dieses Buch in GitHub verwaltet. Bitte schau auf https://github.com/civicrm/civicrm-user-guide/graphs/contributors, um die Liste der Beitragenden zu sehen.
 
-Contributors prior to 2016 are listed below under the section headings in use at the time.
+Beitragende von vor 2016 werden hier gelistet.
 
 * * * * *
 
-About this book 
+Über dieses Buch 
  
- Modifications: 
+ Änderungen:  
  michaelmcandrew - Michael McAndrew 2014 
 
 * * * * *
 
-What is CiviCRM? 
+Was ist CiviCRM? 
  
- Modifications: 
+ Änderungen: 
  Stoob - Stuart G 2012 
  brylie - Brylie Oxley 2012 
  jchester - JoAnne Chester 2013, 2014 
@@ -26,9 +26,9 @@ What is CiviCRM?
 
 * * * * *
 
-Real world examples 
+Beispiele aus der realen Welt: 
  
- Modifications: 
+ Änderungen: 
  colemanw - Coleman Watts 2014 
  tonyguzman4 - Tony Guzman 2012 
  Katymoon - Katy Jockelson 2011 
@@ -37,9 +37,9 @@ Real world examples
 
 * * * * *
 
-Components 
+Komponenten: 
  
- Modifications: 
+ Änderungen: 
  arcurus - Martin Auer 2015 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2013, 2014 
@@ -47,18 +47,18 @@ Components
 
 * * * * *
 
-Extensions 
+Erweiterungen 
  
- Modifications: 
+ Änderungen: 
  arandajl08 - Joshua Aranda 2014 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2013, 2014 
 
 * * * * *
 
-Who is CiviCRM? 
+Wer ist CiviCRM? 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  brylie - Brylie Oxley 2012 
  jchester - JoAnne Chester 2014 
@@ -66,9 +66,9 @@ Who is CiviCRM?
 
 * * * * *
 
-Is CiviCRM for you? 
+Ist CiviCRM das Richtige für Dich? 
  
- Modifications: 
+ Änderungen: 
  jchester - JoAnne Chester 2014 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2012 
@@ -77,9 +77,9 @@ Is CiviCRM for you?
 
 * * * * *
 
-Identifying your needs 
+Erkenne Deine Anforderungen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  jehanley - Jane Hanley 2012 
  michaelmcandrew - Michael McAndrew 2015 
@@ -90,9 +90,9 @@ Identifying your needs
 
 * * * * *
 
-Test it out 
+Teste es aus 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  kasiawaka - Kasia Wakarecy 2012 
  brylie - Brylie Oxley 2012 
@@ -102,16 +102,16 @@ Test it out
 
 Hosting 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
  brylie - Brylie Oxley 2012 
  jchester - JoAnne Chester 2014 
 
 * * * * *
 
-Transitioning to CiviCRM 
+Übergang zu CiviCRM 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Stoob - Stuart G 2012 
  jchester - JoAnne Chester 2014 
@@ -121,9 +121,9 @@ Transitioning to CiviCRM
 
 * * * * *
 
-Installation and basic set-up 
+Installation und Grundkonfiguration 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012 
  michaelmcandrew - Michael McAndrew 2015, 2011, 2013 
  jchester - JoAnne Chester 2014, 2015, 2013 
@@ -137,9 +137,9 @@ Installation and basic set-up
 
 * * * * *
 
-Scheduled jobs 
+Jobsteuerung 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2012 
  jbertolacci - Jason Bertolacci 2013 
  Stoob - Stuart G 2012 
@@ -148,9 +148,9 @@ Scheduled jobs
 
 * * * * *
 
-Customizing the user interface 
+Anpassungen an der Benutzerschnittstelle 
  
- Modifications: 
+ Änderungen: 
  gtona - Galata Tona 2015 
  DavidGreenberg - David Greenberg 2012 
  jchester - JoAnne Chester 2014, 2015, 2013 
@@ -159,9 +159,9 @@ Customizing the user interface
 
 * * * * *
 
-Permissions and access control 
+Berechtigungen und Zugangskontrollen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2013, 2014, 2015 
  arandajl08 - Joshua Aranda 2014 
  Simon_West - Simon West 2012 
@@ -170,9 +170,9 @@ Permissions and access control
 
 * * * * *
 
-Security 
+Sicherheit 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2012 
  jchester - JoAnne Chester 2014 
  davidshq - Dave Mackey 2012 
@@ -182,9 +182,9 @@ Security
 
 * * * * *
 
-Email system configuration 
+Emailsystem-Konfiguration 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2013, 2014 
  cborgia - Chris Borgia 2012 
@@ -200,7 +200,7 @@ Email system configuration
 
 Logging 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2013, 2011, 2015 
  jchester - JoAnne Chester 2014, 2013 
  adam - adam hyde 2011 
@@ -208,9 +208,9 @@ Logging
 
 * * * * *
 
-Menu, dashboard and dashlets 
+Menü, Instrumententafel und Erweiterungen (dashlets) 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012, 2011 
  colemanw - Coleman Watts 2014 
  Katymoon - Katy Jockelson 2011 
@@ -219,18 +219,18 @@ Menu, dashboard and dashlets
 
 * * * * *
 
-Keyboard shortcuts 
+Tastatur-Abkürzungen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2012 
  jchester - JoAnne Chester 2014 
  leesajay - Lisa Jervis 2012 
 
 * * * * *
 
-Searching 
+Suche 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011, 2012 
  michaelmcandrew - Michael McAndrew 2013, 2011 
  jchester - JoAnne Chester 2015, 2013, 2014 
@@ -246,18 +246,18 @@ Searching
 
 * * * * *
 
-Undelete 
+Löschen rückgängig machen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2015, 2014 
 
 * * * * *
 
-Overview 
+Überblick 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  jehanley - Jane Hanley 2012 
  davem - Dave Moreton 2011 
@@ -268,9 +268,9 @@ Overview
 
 * * * * *
 
-Mapping your data 
+Aufschlüsseln Deiner Daten 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2012 
  jchester - JoAnne Chester 2013 
  phillipclarke29 - Philip Clarke 2013 
@@ -282,10 +282,9 @@ Mapping your data
 
 * * * * *
 
-Contacts 
+Kontakte 
  
- Modifications: 
- KatyJ - Katy Jockelson 2012 
+ Änderungen:  KatyJ - Katy Jockelson 2012 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2014, 2015, 2013 
@@ -300,9 +299,9 @@ Contacts
 
 * * * * *
 
-Groups and tags 
+Gruppen und Bezeichnungen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012, 2011 
  michaelmcandrew - Michael McAndrew 2012, 2013, 2011, 2015 
  jchester - JoAnne Chester 2014 
@@ -315,9 +314,9 @@ Groups and tags
 
 * * * * *
 
-Smart groups 
+Intelligente Gruppen 
  
- Modifications: 
+ Änderungen: 
  booki - adam or aco 2011 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2013, 2014 
@@ -325,9 +324,9 @@ Smart groups
 
 * * * * *
 
-Activities 
+Aktivitäten 
  
- Modifications: 
+ Änderungen: 
  KatyJ - Katy Jockelson 2012 
  michaelmcandrew - Michael McAndrew 2013, 2012, 2011 
  roshani - Roshani Kothari 2015 
@@ -339,9 +338,9 @@ Activities
 
 * * * * *
 
-Relationships 
+Zusammenhänge 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2013, 2011 
  jchester - JoAnne Chester 2014 
@@ -352,9 +351,9 @@ Relationships
 
 * * * * *
 
-Custom fields 
+Maßgeschneiderte Felder 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2014 
@@ -369,9 +368,9 @@ Custom fields
 
 * * * * *
 
-Profiles 
+Profile 
  
- Modifications: 
+ Änderungen: 
  Stoob - Stuart G 2013 
  michaelmcandrew - Michael McAndrew 2012, 2013 
  jchester - JoAnne Chester 2013, 2014 
@@ -385,9 +384,9 @@ Profiles
 
 * * * * *
 
-Importing data 
+Daten Importieren 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012 
  biologyben - Ben Shuman 2014 
  michaelmcandrew - Michael McAndrew 2011 
@@ -402,18 +401,18 @@ Importing data
 
 * * * * *
 
-Exporting data 
+Daten exportieren 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
  helen - helen varley jamieson 2011 
 
 * * * * *
 
-Deduping and merging 
+Duplikate ausmerzen und zusammenführen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012 
  Stoob - Stuart G 2014 
  michaelmcandrew - Michael McAndrew 2011 
@@ -427,9 +426,9 @@ Deduping and merging
 
 * * * * *
 
-Tokens and mail merge 
+Token and Mailzusammenführung 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2012 
  colemanw - Coleman Watts 2014 
  DavidGreenberg - David Greenberg 2012 
@@ -441,18 +440,18 @@ Tokens and mail merge
 
 * * * * *
 
-Postal mail communications 
+Postbriefkommunikation 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2012 
  michaelmcandrew - Michael McAndrew 2012 
  jchester - JoAnne Chester 2014 
 
 * * * * *
 
-Automating tasks 
+Automatisierte Aufgaben 
  
- Modifications: 
+ Änderungen: 
  kellieateff - Kellie Brownell 2012 
  michaelmcandrew - Michael McAndrew 2012 
  kasiawaka - Kasia Wakarecy 2012 
@@ -460,9 +459,9 @@ Automating tasks
 
 * * * * *
 
-What is CiviContribute? 
+Was ist CiviContribute? 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2015 
  booki - adam or aco 2011 
@@ -473,9 +472,9 @@ What is CiviContribute?
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  trish - TBA 2012 
  jchester - JoAnne Chester 2014 
@@ -489,9 +488,9 @@ What you need to know
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2015, 2014 
  jbertolacci - Jason Bertolacci 2013 
@@ -506,9 +505,9 @@ Set-up
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2011 
  jchester - JoAnne Chester 2015, 2014 
  roshani - Roshani Kothari 2015 
@@ -522,9 +521,9 @@ Everyday tasks
 
 * * * * *
 
-Soft credits 
+Weiche Angaben 
  
- Modifications: 
+ Änderungen: 
  jehanley - Jane Hanley 2014 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2013 
@@ -534,9 +533,9 @@ Soft credits
 
 * * * * *
 
-Personal Campaign Pages 
+Persönliche Kampagnenseiten 
  
- Modifications: 
+ Änderungen: 
  roshani - Roshani Kothari 2015 
  Simon_West - Simon West 2012 
  DavidGreenberg - David Greenberg 2013 
@@ -545,9 +544,9 @@ Personal Campaign Pages
 
 * * * * *
 
-Accounting Integration 
+Konto-Integration 
  
- Modifications: 
+ Änderungen: 
  ehbk - Eliet Henderson 2013 
  jchester - JoAnne Chester 2014 
  jehanley - Jane Hanley 2013 
@@ -555,9 +554,9 @@ Accounting Integration
 
 * * * * *
 
-Payment processors 
+Zahlweisen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012, 2011 
  michaelmcandrew - Michael McAndrew 2012, 2014, 2015 
  davem - Dave Moreton 2011 
@@ -568,18 +567,18 @@ Payment processors
 
 * * * * *
 
-Invoicing 
+Rechnungsstellung 
  
- Modifications: 
+ Änderungen: 
  roshani - Roshani Kothari 2015 
  michaelmcandrew - Michael McAndrew 2015 
  katesneed - Kate Sneed 2015 
 
 * * * * *
 
-Sales Tax and VAT 
+Mehrwert- und Umsatzsteuer 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011, 2012 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2015 
@@ -593,9 +592,9 @@ Sales Tax and VAT
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  Abril - Abril Rocabert 2011 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
@@ -603,17 +602,17 @@ Reports and analysis
 
 * * * * *
 
-What is CiviPledge? 
+Was ist CiviPledge? 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
  Stoob - Stuart G 2012 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  jbertolacci - Jason Bertolacci 2013 
  Simon_West - Simon West 2012 
@@ -622,9 +621,9 @@ What you need to know
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Stoob - Stuart G 2012 
  jchester - JoAnne Chester 2015 
@@ -636,9 +635,9 @@ Set-up
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
  Stoob - Stuart G 2012 
  jchester - JoAnne Chester 2015 
@@ -646,17 +645,17 @@ Everyday tasks
 
 * * * * *
 
-Pledges Reports and Analysis 
+Zusicherungsberichte und -analysen 
  
- Modifications: 
+ Änderungen: 
  jchester - JoAnne Chester 2015 
  avaguilar - Alice Aguilar 2014 
 
 * * * * *
 
-Introduction to events 
+Einführung in Veranstaltungen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2011 
  maya - Maya Gibbs 2014 
  davem - Dave Moreton 2011 
@@ -668,9 +667,9 @@ Introduction to events
 
 * * * * *
 
-Event planning 
+Veranstaltungsplanung 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2013, 2011, 2012, 2015 
  maya - Maya Gibbs 2014 
@@ -687,27 +686,27 @@ Event planning
 
 * * * * *
 
-Creating an event 
+Erstellen einer Veranstaltung 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2014 
  maya - Maya Gibbs 2014 
  kckrupp - Kevin C. Krupp 2012 
 
 * * * * *
 
-Online event registration 
+Online-Registrierung einer Veranstaltung 
  
- Modifications: 
+ Änderungen: 
  jchester - JoAnne Chester 2015 
  michaelmcandrew - Michael McAndrew 2015 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-Integrating events with your website 
+Integration von Veranstaltungen in Deine Webseite 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2015, 2014 
  jbertolacci - Jason Bertolacci 2013 
@@ -718,27 +717,27 @@ Integrating events with your website
 
 * * * * *
 
-Manual event registration 
+Manuelle Veranstaltungs-Registrierung 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  maya - Maya Gibbs 2014 
  avaguilar - Alice Aguilar 2012 
 
 * * * * *
 
-Keeping track of events and participants 
+Veranstaltungen und Teilnehmer verfolgen 
  
- Modifications: 
+ Änderungen: 
  jbertolacci - Jason Bertolacci 2012 
  michaelmcandrew - Michael McAndrew 2015 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-Event badges 
+Veranstaltungs-Abzeichen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2012 
  Abril - Abril Rocabert 2011 
  Stoob - Stuart G 2012 
@@ -749,25 +748,25 @@ Event badges
 
 * * * * *
 
-Complex event fees (price sets and discounts) 
+Komplexe Preisgestaltung für Veranstaltungen (feste Preise und Rabatte) 
  
- Modifications: 
+ Änderungen: 
  kellieateff - Kellie Brownell 2012 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-Event templates 
+Veranstaltungs-Vorlagen 
  
- Modifications: 
+ Änderungen: 
  kellieateff - Kellie Brownell 2012 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-Event reports 
+Veranstaltungs-Berichte 
  
- Modifications: 
+ Änderungen: 
  Abril - Abril Rocabert 2011 
  michaelmcandrew - Michael McAndrew 2011 
  jchester - JoAnne Chester 2013, 2015 
@@ -780,59 +779,59 @@ Event reports
 
 * * * * *
 
-WHAT IS CIVICRM? 
+Was ist CiviCRM? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Custom data for events 
+Freifelder für Veranstaltungen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2012 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-Repeating Events 
+Sich wiederholende Veranstaltungen 
  
- Modifications: 
+ Änderungen: 
  gtona - Galata Tona 2015 
  maya - Maya Gibbs 2014 
 
 * * * * *
 
-REAL WORLD EXAMPLES 
+Beispiele aus der realen Welt 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-WHO IS CIVICRM? 
+Wer ist CiviCRM? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-ABOUT THIS BOOK 
+Über dieses Buch 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-Introduction to memberships 
+Einführung in Mitgliedschaften 
  
- Modifications: 
+ Änderungen: 
  Upperholme - Graham Mitchell 2014 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2014 
 
 * * * * *
 
-Defining memberships 
+Die Definition von Mitgliedschaften 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2014, 2015 
  katesneed - Kate Sneed 2015 
@@ -840,9 +839,9 @@ Defining memberships
 
 * * * * *
 
-Online membership sign up 
+Online Mitglied werden 
  
- Modifications: 
+ Änderungen: 
  jcrothers - Jennifer Crothers 2014 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2014 
@@ -850,15 +849,15 @@ Online membership sign up
 
 * * * * *
 
-IS CIVICRM FOR YOU? 
+Ist CiviCRM für Dich? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Manual entry of memberships 
+Manueller Eintrag von Mitgliedschaften 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  jcrothers - Jennifer Crothers 2014 
  michaelmcandrew - Michael McAndrew 2014, 2015 
@@ -867,21 +866,21 @@ Manual entry of memberships
 
 * * * * *
 
-ORGANISATIONAL ANALYSIS 
+Organisatoriche Analyse 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-PROJECT MANAGEMENT 
+Projektmanagement 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Membership pricesets 
+Mitgliedschafts-Preise 
  
- Modifications: 
+ Änderungen: 
  laryn - Laryn Kragt Bakker, CEDC.org 2014 
  michaelmcandrew - Michael McAndrew 2014 
  jchester - JoAnne Chester 2014 
@@ -889,9 +888,9 @@ Membership pricesets
 
 * * * * *
 
-Finding and viewing memberships 
+Auffinden und Ansehen von Mitgliedschaften 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2014, 2015 
  katesneed - Kate Sneed 2015 
@@ -901,15 +900,15 @@ Finding and viewing memberships
 
 * * * * *
 
-HOW DATA IS ORGANISED? 
+Wie Daten organisiert sind 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Membership reports 
+Mitgliedschafts-Bericht 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2015, 2014 
  katesneed - Kate Sneed 2015 
@@ -919,15 +918,15 @@ Membership reports
 
 * * * * *
 
-EXTENDING CORE DATA 
+Erweiterung der Kern-Daten 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Renewals 
+(Regelmäßige) Verlängerungen 
  
- Modifications: 
+ Änderungen: 
  arandajl08 - Joshua Aranda 2014 
  Simon_West - Simon West 2012 
  michaelmcandrew - Michael McAndrew 2014 
@@ -935,16 +934,16 @@ Renewals
 
 * * * * *
 
-PROFILES 
+Profile 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-Cancelling and expiring memberships 
+Kündigung und Verfallenlassen einer MItgliedschaft 
  
- Modifications: 
+ Änderungen: 
  kbrownell - Kellie Brownell 2012 
  kellieateff - Kellie Brownell 2012 
  michaelmcandrew - Michael McAndrew 2015 
@@ -953,9 +952,9 @@ Cancelling and expiring memberships
 
 * * * * *
 
-Making member only websites 
+Mitglieder-Webseiten erstellen 
  
- Modifications: 
+ Änderungen: 
  arandajl08 - Joshua Aranda 2014 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2014 
@@ -963,23 +962,23 @@ Making member only websites
 
 * * * * *
 
-INSTALLATION 
+Installation 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-MENU AND DASHBOARD 
+Menü und Instrumententafel 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-What is CiviMail? 
+Was ist CiviMail? 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2012, 2011, 2015 
  ehbk - Eliet Henderson 2012 
  adam - adam hyde 2011 
@@ -989,9 +988,9 @@ What is CiviMail?
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2012, 2011 
  ehbk - Eliet Henderson 2012 
@@ -1003,22 +1002,22 @@ What you need to know
 
 * * * * *
 
-CONTACTS 
+Kontakte 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-TAGS AND GROUPS 
+Bezeichnung und Gruppen 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2011 
  jchester - JoAnne Chester 2014, 2013 
@@ -1034,16 +1033,16 @@ Set-up
 
 * * * * *
 
-SEARCHING 
+Suche 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-Maintaining Healthy Email Lists 
+Eine gesunde Mailingliste pflegen 
  
- Modifications: 
+ Änderungen: 
  laryn - Laryn Kragt Bakker, CEDC.org 2014 
  michaelmcandrew - Michael McAndrew 2015 
  jchester - JoAnne Chester 2014 
@@ -1053,9 +1052,9 @@ Maintaining Healthy Email Lists
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2011 
  ehbk - Eliet Henderson 2012 
@@ -1069,21 +1068,21 @@ Everyday tasks
 
 * * * * *
 
-IMPORTING 
+Importieren 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-DEDUPING AND MERGING 
+Duplikate ausmerzen und zusammenführen 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2011 
  jchester - JoAnne Chester 2015, 2013 
  ehbk - Eliet Henderson 2012 
@@ -1093,15 +1092,15 @@ Reports and analysis
 
 * * * * *
 
-EXPORTING 
+Exporte 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Scheduled reminders 
+Gesteuerte Erinnerungen (an Aufgaben) 
  
- Modifications: 
+ Änderungen: 
  laryn - Laryn Kragt Bakker, CEDC.org 2014 
  michaelmcandrew - Michael McAndrew 2012, 2014 
  jchester - JoAnne Chester 2015, 2014 
@@ -1115,83 +1114,81 @@ Scheduled reminders
 
 * * * * *
 
-A/B Testing 
+A/B Tests 
  
- Modifications: 
+ Änderungen: 
  gtona - Galata Tona 2015 
  katesneed - Kate Sneed 2015 
 
 * * * * *
 
-POSTAL MAIL 
+Postbriefe 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is SMS? 
+Was ist SMS? 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
  michaelmcandrew - Michael McAndrew 2015 
 
 * * * * *
 
-WHAT IS CIVICONTRIBUTE? 
+Was ist CiviContribute? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  Simon_West - Simon West 2012 
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
- Simon_West - Simon West 2012 
- jchester - JoAnne Chester 2015 
+ Änderungen:  Simon_West - Simon West 2012  jchester - JoAnne Chester 2015 
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is CiviReport? 
+Was ist CiviReport? 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  davem - Dave Moreton 2011 
  adam - adam hyde 2011 
@@ -1199,15 +1196,15 @@ What is CiviReport?
 
 * * * * *
 
-WHAT IS CIVIEVENT? 
+Was ist CiviEvent? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2015, 2014 
  davem - Dave Moreton 2011 
@@ -1217,9 +1214,9 @@ What you need to know
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  jchester - JoAnne Chester 2015 
  colemanw - Coleman Watts 2015 
  roshani - Roshani Kothari 2015 
@@ -1232,37 +1229,37 @@ Set-up
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  jchester - JoAnne Chester 2015 
  helen - helen varley jamieson 2011 
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-What is CiviCase 
+Was ist CiviCase 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  jchester - JoAnne Chester 2014 
  Upperholme - Graham Mitchell 2014 
@@ -1272,15 +1269,15 @@ What is CiviCase
 
 * * * * *
 
-WHAT IS CIVIMEMBER? 
+Was ist CiviMember? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2013 
  jchester - JoAnne Chester 2014 
  Upperholme - Graham Mitchell 2014 
@@ -1293,15 +1290,15 @@ What you need to know
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  jchester - JoAnne Chester 2014, 2013 
  Upperholme - Graham Mitchell 2014 
@@ -1316,9 +1313,9 @@ Set-up
 
 * * * * *
 
-Every day tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Upperholme - Graham Mitchell 2014 
  demeritcowboy - Dave D 2011 
@@ -1332,15 +1329,15 @@ Every day tasks
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  Abril - Abril Rocabert 2011 
  Katymoon - Katy Jockelson 2011 
  jchester - JoAnne Chester 2014 
@@ -1348,15 +1345,15 @@ Reports and analysis
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is CiviCampaign? 
+Was ist CiviCampaign? 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  DavidEsrati - David Esrati 2013 
  adam - adam hyde 2011 
@@ -1366,15 +1363,15 @@ What is CiviCampaign?
 
 * * * * *
 
-WHAT IS CIVIMAIL? 
+Was ist CiviMail? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  DavidEsrati - David Esrati 2013 
@@ -1383,15 +1380,15 @@ What you need to know
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  jchester - JoAnne Chester 2013 
@@ -1400,21 +1397,21 @@ Set-up
 
 * * * * *
 
-SYSTEM CONFIGURATION 
+Systemkonfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
@@ -1423,23 +1420,23 @@ Everyday tasks
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2011, 2015, 2013 
  jchester - JoAnne Chester 2014, 2015 
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is CiviSurvey 
+Was ist CiviSurvey? 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
@@ -1448,21 +1445,21 @@ What is CiviSurvey
 
 * * * * *
 
-WHAT IS CIVICASE? 
+Was ist CiviCase? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  helen - helen varley jamieson 2011 
@@ -1471,9 +1468,9 @@ What you need to know
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  michaelmcandrew - Michael McAndrew 2013 
  helen - helen varley jamieson 2011 
@@ -1483,21 +1480,21 @@ Set-up
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  DavidEsrati - David Esrati 2013 
  helen - helen varley jamieson 2011 
@@ -1507,9 +1504,9 @@ Everyday tasks
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2015, 2011 
  jchester - JoAnne Chester 2015 
  adam - adam hyde 2011 
@@ -1519,16 +1516,16 @@ Reports and analysis
 
 * * * * *
 
-WHAT IS CIVICAMPAIGN 
+Was ist CiviCampaign? 
  
- Modifications: 
+ Änderungen: 
  avaguilar - Alice Aguilar 2011 
 
 * * * * *
 
-GOTV voter tracking 
+Get Out The Vote-Wählererfassung (Bemühen, mehr Wähler zur Wahl zu motivieren) 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  avaguilar - Alice Aguilar 2011 
@@ -1536,16 +1533,16 @@ GOTV voter tracking
 
 * * * * *
 
-CAMPAIGN PLANNING 
+Campagnen-Planung 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2011 
 
 * * * * *
 
-What is CiviPetition? 
+Was ist CiviPetition? 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
@@ -1554,23 +1551,23 @@ What is CiviPetition?
 
 * * * * *
 
-CAMPAIGN CONFIGURATION 
+Kampagnen-Konfiguration 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2011 
 
 * * * * *
 
-CAMPAIGN EVERYDAY TASKS 
+Tägliche Aufgaben bei Kampagnen 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2011 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
@@ -1579,9 +1576,9 @@ What you need to know
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Laurie - Laurie Sterling Jensen 2013 
  adam - adam hyde 2011 
@@ -1591,9 +1588,9 @@ Set-up
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
@@ -1602,42 +1599,42 @@ Everyday tasks
 
 * * * * *
 
-WHAT IS CIVIENGAGE? 
+Was ist CiviEngage? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  avaguilar - Alice Aguilar 2012 
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-INSTALLING 
+Installation 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is CiviEngage 
+Was ist CiviEngage? 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  DavidEsrati - David Esrati 2013 
  adam - adam hyde 2011 
@@ -1647,9 +1644,9 @@ What is CiviEngage
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  reperry - Robyn Perry 2011 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
@@ -1658,15 +1655,15 @@ What you need to know
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
  avaguilar - Alice Aguilar 2011 
@@ -1674,45 +1671,45 @@ Set-up
 
 * * * * *
 
-WHAT IS CIVIREPORT? 
+Was ist CiviReport? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  avaguilar - Alice Aguilar 2011, 2012 
  helen - helen varley jamieson 2011 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  avaguilar - Alice Aguilar 2011 
  adam - adam hyde 2011 
 
 * * * * *
 
-PLANNING 
+Planung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-CONFIGURING 
+Konfiguration 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What is CiviGrant 
+Was ist CiviGrant (Subventionsleistungen) 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  adam - adam hyde 2011 
@@ -1720,24 +1717,24 @@ What is CiviGrant
 
 * * * * *
 
-EVERYDAY TASKS 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-What you need to know 
+Was Du wissen musst 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  helen - helen varley jamieson 2011 
 
 * * * * *
 
-Set-up 
+Aufsetzen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  jchester - JoAnne Chester 2013 
@@ -1745,68 +1742,65 @@ Set-up
 
 * * * * *
 
-INTRODUCTION 
+Einführung 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Everyday tasks 
+Tägliche Aufgaben 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  helen - helen varley jamieson 2011 
 
 * * * * *
 
-TEMPLATES 
+Vorlagen 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-REPORTS 
+Berichte 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Reports and analysis 
+Berichte und Analysen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  adam - adam hyde 2011 
 
 * * * * *
 
-CUSTOM SEARCHES 
+Maßgeschneiderte Suchen 
  
- Modifications: 
+ Änderungen: 
  theMusician - Max Bronsema 2011 
 
 * * * * *
 
-Choosing your CMS 
+Wähle Dein CMS (Content Management System) 
  
- Modifications: 
- michaelmcandrew - Michael McAndrew 2012, 2013 
- jchester - JoAnne Chester 2014 
- gibsonoliver - oliver gibson 2013 
+ Änderungen:  michaelmcandrew - Michael McAndrew 2012, 2013  jchester - JoAnne Chester 2014  gibsonoliver - oliver gibson 2013 
 
 * * * * *
 
 API 
  
- Modifications: 
+ Änderungen: 
  JoeMurray - Joe Murray 2011 
 
 * * * * *
 
-Integrating with Drupal 
+Integration in Drupal 
  
- Modifications: 
+ Änderungen: 
  Stoob - Stuart G 2012 
  michaelmcandrew - Michael McAndrew 2012, 2013 
  jchester - JoAnne Chester 2014 
@@ -1816,15 +1810,15 @@ Integrating with Drupal
 
 * * * * *
 
-HOOKS 
+Hooks (Haken) 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Integrating with WordPress 
+Integration mit WordPress 
  
- Modifications: 
+ Änderungen: 
  Stoob - Stuart G 2012 
  michaelmcandrew - Michael McAndrew 2013, 2012 
  jchester - JoAnne Chester 2014 
@@ -1834,21 +1828,21 @@ Integrating with WordPress
 
 * * * * *
 
-IMPORTS 
+Importe 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-DEVELOPER TIPS 
+Entwickler-Empfehlungen 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Integrating with Joomla 
+Integration in Joomla 
  
- Modifications: 
+ Änderungen: 
  michaelmcandrew - Michael McAndrew 2012 
  jchester - JoAnne Chester 2014 
  arcurus - Martin Auer 2015 
@@ -1858,15 +1852,15 @@ Integrating with Joomla
 
 * * * * *
 
-CIVICOMMUNITY 
+CiviCommunity 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-CiviCRM community 
+CiviCRM Gemeinschaft 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  DavidGreenberg - David Greenberg 2012 
  jchester - JoAnne Chester 2014 
@@ -1874,9 +1868,9 @@ CiviCRM community
 
 * * * * *
 
-Bug reporting 
+Fehler berichten 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2011 
  avaguilar - Alice Aguilar 2011 
@@ -1884,30 +1878,30 @@ Bug reporting
 
 * * * * *
 
-LOCALISATION 
+Lokalisation 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-BUG REPORTING 
+Fehler berichten 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Localising CiviCRM 
+Lokalisieren von CiviCRM 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  jchester - JoAnne Chester 2014 
  adam - adam hyde 2011 
 
 * * * * *
 
-Contributing to this manual 
+An diesem Handbuch mitarbeiten 
  
- Modifications: 
+ Änderungen: 
  joemcl - Joe McLaughlin 2013 
  Katymoon - Katy Jockelson 2011 
  lynxlynxlynx - Jaka Kranjc 2014 
@@ -1916,15 +1910,15 @@ Contributing to this manual
 
 * * * * *
 
-HOW TO CONTRIBUTE? 
+Wie kann ich etwas beisteuern? 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-History of this book 
+Die Historie dieses Handbuches 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  michaelmcandrew - Michael McAndrew 2012 
  davidshq - Dave Mackey 2012 
@@ -1932,36 +1926,36 @@ History of this book
 
 * * * * *
 
-HISTORY OF THIS BOOK 
+Die Historie dieses Handbuchs 
  
- Modifications: 
+ Änderungen: 
  DavidGreenberg - David Greenberg 2011 
 
 * * * * *
 
-About free software 
+Über freie Software 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  davidshq - Dave Mackey 2012 
 
 * * * * *
 
-ABOUT FREE SOFTWARE 
+Über freie Software 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-GLOSSARY 
+GLOSSAR 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
-Glossary 
+Glossar 
  
- Modifications: 
+ Änderungen: 
  Abril - Abril Rocabert 2011 
  jbertolacci - Jason Bertolacci 2013 
  Katymoon - Katy Jockelson 2011 
@@ -1970,40 +1964,28 @@ Glossary
 
 * * * * *
 
-Credits 
+Danksagungen 
  
- Modifications: 
+ Änderungen: 
  Katymoon - Katy Jockelson 2011 
  adam - adam hyde 2011 
 
 * * * * *
 
-CREDITS 
+Danksagungen 
  
- Modifications: 
+ Änderungen: 
 
 * * * * *
 
 
 
-Cover Art (faces) by Kapor Creative: Jake Mix & Trevor Parham (Jake
-created the illustrations, and Trevor developed the concept of the civi
-logos as eyes). Cover Art is CC-BY-SA
+Deckblatt (Gesichter) von Kapor Creative: Jake Mix & Trevor Parham (Jake erstellte die Illustrration und Trevor entwickelte das Konzeptder Civi-Logos als Augen). Das Deckblatt ist lizensiert nach CC-BY-SA
 
-All chapters copyright of the authors (see below). Unless otherwise
-stated all chapters in this manual licensed with **GNU General Public
-License version 2**
+Alle Kapitel sind urheberrechtlich von den Autoren (siehe unten). Solange es nicht anders vermerkt ist, sind alle Kapitel in diesem Handbuch nach der **GNU General Public License version 2** lizensiert
 
-This documentation is free documentation; you can redistribute it and/or
-modify it under the terms of the GNU General Public License as published
-by the Free Software Foundation; either version 2 of the License, or (at
-your option) any later version.
+Diese Dokumentation ist eine freie Dokumentation; Du darfst sie weiterverteilen und/oder unter den Bedingungen der GNU General Public License, wie sie on der Free Software Foundation publiziert wurde; entweder nach Version 2 dieser Lizenz, oder (nach Deiner Entscheidung) jeder späteren Version ändern.
 
-This documentation is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-Public License for more details.
+Diese Dokumentation wird in der Hoffnung verteilt, dass sie nützlich ist, aber ohne jegliche Gewährleistung; nicht einmal einer implizierten allgemeinen oder speziellen Gewährleistung. Bitte schau Dir die GNU General Public License an, wenn Du mehr Informationen haben möchtest.
 
-You should have received a copy of the GNU General Public License along
-with this documentation; if not, write to the Free Software Foundation,
-Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+Du solltest eine Kopie der GNU General Public License zusammen mit dieser Dokumentation bekommen haben; wen nicht, schreib die Free Software Foundation in den USA an: Free Software Foundation, Inc, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
