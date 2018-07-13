@@ -1,137 +1,34 @@
-# Free Software?
+# Freie Software?
 
-CiviCRM is **Free Software** - this means it is developed by a community
-and licensed in a generous way so you can use it for free for whatever
-you want.
+CiviCRM ist **Freie Software** - das bedeutet, dass sie von einer Gemeinschaft entwickelt wird und unter einer Lizenz steht, welche so großzügig ist, dass Du sie kostenlos für alles was Du Dir vorstellen kannst nutzen kannst.
 
-Free Software (sometimes also referred to as **Free and Open Source
-Software**, **FLOSS**, **FOSS**, **Software Libre**, or **Open
-Source**) is software that anyone can download, share, and --
-significantly -- change in any way they want. Practically speaking, you
-might never want to change the software, or even have a staff person who
-can read the **source code** (the instructions written by programmers).
-But the ability to change the software protects you in many ways:
+Freie Software (manchmal auch als **freie und offene Software**, **FLOSS**, **FOSS**, **Software Libre** oder **quelloffen** bezeichnet) ist Software, die Jeder herunterladen, teilen und auch --erheblich-- ändern darf, so wie er lustig ist. Vereinfacht gesprochen möchtest du vielleicht nie die Software ändern oder hast auch Niemanden der den **Source Code** lesen kann (die Befehle, die von Programmierern geschrieben wurden). Aber in der Lage zu sein, die Software ändern zu können schützt Dich auf vielen Wegen:**CiviCRM** wird nicht verschwinden, wie andere nicht-freie Software von einigen Firmen, die eingestellt wird, wenn die Firma pleite geht oder beschließt, das Produkt nicht weiter zu entwickeln.
+-   Die Software kann kostenlos benutzt und angepasst werden.
+-   Niemand kann plötzlich Features einfach wegnehmen oder die Bedingungen zur Nutzung der Software oder deren Features änden. 
+-   Wenn eine Organisation ein Feature möchte, das CiviCRM noch nicht anbietet, kann die Organisation selbst jemanden beauftragen dieses Feature zu erstellen. Natürlich kann die Organisation auch eine Bitte an das CiviCRM-Team stellen um ein Feature anzufragen, so wie bei jedem anderen Softwareprodukt auch.
+-   Jeder kann auf ähnliche Weise einen **bug** (Fehler in der Software) reparieren, wenn sie oder er die Fähigkeiten dazu hat. Weil der Sourcecode frei verfügbar ist, können Kunden Fehler auch einfacher finden.
+-   Mitglieder der Benutzergemeinschaft haben mehr Möglichkeiten, ihre Erfahrungen, Meinungen und Ideen bei CiviCRM einzubringen als es üblicherweise bei geschlossener Software / kommerzieller Software der Fall ist, weil sie das Produkt durch das Lesen des Codes verstehen und Änderungen durchführen können.  Zusätzlich können viele Personen verschiedene Implementierungen von Features ausprobieren und die Gemeinschaft kann dann entscheiden (durch eine Abstimmung oder Konsens) welche Variante offiziell genutzt werden soll. 
 
--   **CiviCRM** will not go away, unlike non-free software from some
-    companies that gets abandoned if the company goes bankrupt or
-    decides to discontinue a specific product.
--   The software can be used and customised free of charge.
--   Nobody can suddenly take away features or change the terms under
-    which you are allowed to use the software and its features. 
--   If an organisation wants a feature that CiviCRM doesn't provide, the
-    organisation can hire someone to create it. Of course, the
-    organisation can also submit a feature request to the CiviCRM team
-    as with any software product.
--   Similarly, anyone can fix a **bug** (error in the software) if he or
-    she has the skills to do so. Because the source code is available,
-    clients can also find bugs more easily.
--   Members of the community have much more input into how CiviCRM
-    develops than is traditionally available via closed
-    source/commercial software, because they can understand the product
-    by reading the code and can make changes. Furthermore, many people
-    can try different implementations of features and the community can
-    decide by vote or consensus which one to make official. 
+Das kann genug für Dich sein, aber wir wollen zur Übersicht weitere Definitionen erläutern:**"Freie Software** or **Software Libre** bezeichnet Software, welche die Freiheit von Computernutzern in den Mittelpunkt stellt. Freie Software wird dadurch definiert, dass ein Nutzer mit dem Empfang der Software die Nutzungsrechte mitempfängt und diese ihm nicht vorenthalten oder beschränkt werden.
 
-That may be enough for you, but for the sake of completeness we'll offer
-some widely used definitions:
+Insbesondere bedeutet es,
 
-**"Free software** or **software libre** is software that can be used,
-studied, and modified without restriction, and which can be copied and
-redistributed in modified or unmodified form either without restriction,
-or with minimal restrictions only to ensure that further recipients can
-also do these things and that manufacturers of consumer-facing hardware
-allow user modifications to their hardware. Free software is available
-gratis (free of charge) in most cases."*
-(from:
-[http://en.wikipedia.org/wiki/Free_software](http://en.wikipedia.org/wiki/Free_software))*
+   die Freiheit der Kontrolle über die Software (und zwar uneingeschränkte Freiheit der Kontrolle und Unabhängigkeit durch Erhalt des genauen Quellcodes, um Analysen und Änderungen der Software zu erlauben),
+   die soziale Freiheit der Kollaboration, um aktiv mit beliebigen anderen Nutzern und Entwicklern kooperieren zu können (die Software darf kopiert und weitergegeben werden, im Original oder mit Veränderung). Freie Software ist üblicherweise kostenlos verfügar"* (aus: [http://de.wikipedia.org/wiki/Freie_Software](http://de.wikipedia.org/wiki/Freie_Software))*Als **Open Source** (aus englisch open source, wörtlich offene Quelle) wird Software bezeichnet, deren Quelltext öffentlich und von Dritten eingesehen, geändert und genutzt werden kann. Open-Source-Software kann meistens kostenlos genutzt werden. 
+ This permits users to use, change, and improve the software, and to redistribute it in modified or unmodified forms. [http://de.wikipedia.org/wiki/Open_source](http://de.wikipedia.org/wiki/Open_source))*
 
-**"Open source software (OSS)** is defined as computer software for
-which the source code and certain other rights normally reserved for
-copyright holders are provided under a software license that meets the
-Open Source Definition or that is in the public domain. This permits
-users to use, change, and improve the software, and to redistribute it
-in modified or unmodified forms. It is very often developed in a public,
-collaborative manner." 
-*(from:
-[http://en.wikipedia.org/wiki/Open_source_software](http://en.wikipedia.org/wiki/Open_source_software))*
+Fast alle Software, die als Freie Software dargestellt werden kann kann auch als Open Source angesehen werden und umgekehrt. Der Hauptgrund für diese beiden verschiedenen Begriffe liegt darin, dass *freie Software* den Freiheits-Aspekt hervorhebt (dass Du nicht unter der Kontrolle des Programmierers stehst) und *Open Source Software* die Bequemlichkeit und die Möglichkeit von Innovationen durch die Verfügbarkeit des Quellcodes hervorhebt.
 
-Nearly any software that qualifies as free also qualifies as Open
-Source, and vice versa. The main reason that two different terms exist
-is that "free software" emphasizes the freedom aspect (that you aren't
-under the control of the original programmers) whereas "open source
-software" emphasizes the convenience and potential for innovation
-provided by having the source code available.
+Wenn Du CiviCRM installerst und nutzt wirst Du bemerken, dass es keinen nervigen Text mit einer **Software-Lizenz** gibt in der steht was Du mit der Software machen und nicht machen darfst. Das liegt daran dass freie Software Dich in Deinen Recht, mit der Software zu machen was Du möchtest, nicht einschränkt. Freie und offene Software beinhaltet Lizenzen, aber diese sind einfacher sehr anders als die Lizenzen von **proprietärer** **Software** ('geschlossene Software') CiviCRM selbst ist verfügbar unter der **Affero General Public License version 3.0**, eine von den populären Lizenzen für für freie Software, die von vielen anderen Projekten ebenfalls genutzt wird.
 
-When you install and use CiviCRM, you'll notice there is no annoying
-click-through **software license** imposing a thousand things that you
-can or cannot do with it. That's because free software doesn't limit
-your right to do with the software whatever you want. Free and open
-source software have licenses, but they're simpler than and quite
-different from **proprietary** **software** ('closed software')
-licenses. CiviCRM itself is available under **Affero General Public
-License version 3.0**, one of the popular free software licenses used by
-many other projects.
+## Freie Software und Nicht-gewinnorientierte-Organisationen
 
-## Free Software and non-profits
+Alle möglichen Überlegungen zum Thema freie und offene Software in Non-Profit-Organisationen zu erklären würden den hiesigen Rahmen sprengen, daher fokussieren wir uns auf die wichtigsten Erkenntnisse:
 
-Explaining all of the possible considerations on using FOSS in
-non-profit and advocacy work might take a really long time, so let's
-focus on the most important highlights:
+-   Eine der Stärken von FOSS-Projekten (CiviCRM natürlich auch) ist dabei, die Gemeinscahft der Nutzer in den Prozess des Designs und der Erstellung der Software mit einzubinden. Auf lange Sicht sichert diese Vorgehensweise nicht nur zu, dass die Software genau das tut was die Benutzer benötigen, sondern erlaubt auch indirekt den Austausch von Wissen und Erfahrung zwischen Organisationen. Indem Du CiviCRM nutzt, nutzt Du die Erfahrung von anderen Non-Profit-Organisationen und Rechtsanwälten. 
+-   Durch den Zugriff auf den Source Code bist Du Unabhängig. Bei proprietärer Sofware ist es normalerweise unmöglich, die Werkzeuge an Deine Anforderungen anzupassen. Mit freier und offener Software kannst Du einen Entwickler oder Consultant anheuern, um angepasste Funktionen einzubauen, die Du für Deine Arbeit benötigst. Wenn Du Deine Erweiterungen an die Projektgemeinschaft weitergibst, werden andere Organisationen sie eventuell auch anfangen zu nutzen. Das bedeutet, dass Du weitere Tester und weitere Verbesserungen für Deine Erweiterungen bekommen kannst - kostenlos.
+-   Wenn eine Firma, die für Dich unfreie Software herstellt, bankrott geht, sind die meisten Organisationen aufgeschmissen und müssen eine in eine neue Software investieren (die dann teuer und ressourcenfressend ist). Das wird mit freier Software ncith so schnell passieren - es gibt immer eine Nutzergemeinschaft und Entwickler in dieser Gemeinschaft; es gibt keinen "Single Point of Failure", keine Person von der alles andere abhängt. Bei freien Software-Projekten kann die Gemeinschaft die Verantwortung für das Projekt übernehmen, wenn die Hauptorganisation hinter einer bestimmten Software sich verabschiedet. Es kann eine neue Organisation erstellt werden, die Entwicklung und Unterstützung der Software selbst läuft weiter.
 
--   One of the priorities of FOSS projects, including CiviCRM, is to
-    involve the community of users in the process of designing and
-    building the software. In the long run, this not only assures that
-    the software is doing exactly what it should do to sustain the needs
-    of its users, but it also allows indirect exchange of knowledge and
-    experience between organisations. By using CiviCRM, you are
-    basically taking advantage of other non-profit and advocacy
-    practitioners' experience. 
--   Having access to the source code gives you and your organisation a
-    certain level of independence. With proprietary software it is
-    usually impossible to customise the tools to meet your specific
-    needs. With FOSS, you can hire a developer or consultant and work
-    with them on providing specific functionality needed in your work.
-    Additionally, if you contribute your improvements to the project
-    community other organisations will probably start using them. It
-    means you can receive testing and further improvements of your
-    functionality for free.
--   When a company which provided you with closed software goes out of
-    business, the usual procedure for an organisation reliant on that
-    software is to abandon the software and start investing in a new one
-    (which is resource intensive and costly). It's less likely to happen
-    with Free and Open Source Software - there is always a community of
-    users and developers around it and there is no single "point of
-    failure." With FOSS projects, if the main organisation behind a
-    specific piece of software shuts down or changes their focus, the
-    community takes over, a new organisation is formed and the software
-    development and support continues.
+Abgesehen von den praktischen Vorteilen die oben erwähnt werden, gibt es auch noch den philosophische Ansatz, um die Frage nach der Wichtigkeit von FOSS für Nicht-Profit-Organisationen und Anwälten zu beantworten. Ohne zu sehr in die philosophischen Diskussionen einzusteigen gibt es eine große Überschneidung zwischen den Werten die von Non-Profit-Organisationen und der Freie-Softwarebewegung geteilt werden. Durch die Mitarbeit in der Benutzergemeinschaft, durch das Zurückgeben von Feedback, durch Erstellung von Changes, die in das Projekt zurückfliessen bist Du Teil der Gemeinschaft und stärkst den Non-Profit-Sektor.
 
-Apart from the practical advantages listed above, there is also a more
-philosophical approach to answering the question of importance of FOSS
-for non-profits and advocacy organisations. Without getting too deep
-into philosophical discussions, there is a great overlap between values
-shared by non-profit organisations and those shared by Free and Open
-Source Software communities. By working with the community of users,
-providing your feedback, contributing your changes back into the
-project, you are actually strengthening the non-profit sector.
-
-## Further Reading
-
-**Free Software Foundation** 
-http://www.fsf.org/
-
-**The Free Software Definition** 
-http://www.gnu.org/philosophy/free-sw.html
-
-**Open Source Initiative** 
-http://www.opensource.org/
-
-**The Open Source Definition** 
-http://www.opensource.org/docs/osd
-
-**GNU Affero General Public License v3** 
-http://www.opensource.org/licenses/agpl-v3.html
-
-**Choosing and Using Free and Open Source Software: A primer for
-nonprofits** 
-http://www.nosi.net/projects/primer
+## Mehr zu lesen (Linkliste)**Free Software Foundation** http://www.fsf.org/**The Free Software Definition** http://www.gnu.org/philosophy/free-sw.html**Open Source Initiative** http://www.opensource.org/**The Open Source Definition** http://www.opensource.org/docs/osd**GNU Affero General Public License v3** http://www.opensource.org/licenses/agpl-v3.html**Choosing and Using Free and Open Source Software: A primer for nonprofits** http://www.nosi.net/projects/primer
