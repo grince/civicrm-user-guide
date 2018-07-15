@@ -1,420 +1,269 @@
-# Glossary
+# Glossar
 
-## Accidental Techie
+## Zufallsadmin
 
-Someone who has inherited the role of **IT** technical support but whose
-primary role maybe something else; often has little or no formal IT
-training (which is not always a bad thing!).
+Jemand, der die Rolle des **IT**-Technikers übernommen hat, der abre eigentlich etwas anderes macht; diese Person hat normalerweise keine IT-Ausbildung (was nicht immer schlecht ist!).
 
-## Accordion
+## Akkordeon
 
-A **javascript**-based effect on a web page that allows additional
-content to be revealed or hidden (often referred to as collapsed or
-uncollapsed) without the user leaving the web page.
+Ein **Javascript**-basierter Effekt auf einer Webseite, der es erlaubt, zusätzlichen Inhalt aufzuzeigen oder zu verstecken (oft eingefahren oder ausgefahren genannt) ohne dass der Besucher die Webseite verlassen muss.
 
 ## ACL (Access Control List)
 
-ACLs define **permissions** for a group of **contacts** to perform an
-operation (e.g. edit, view, delete) on a set of data or a type of
-record. For example, you could set up a group called "Administrators"
-that allows people to view and edit all contact records, and a group
-called "Volunteers" that can view contact records but not edit them.
+ACLs definieren **Erlaubnisse** für eine Gruppe von **Kontakten** eine Aktion auszuführen (z.B. Ändern, Ansehen, Löschen) auf einem Datensatz oder einen Record-Typ. Zum Beispiel kann man eine Gruppe "Administratoren" erstellen, die den Benutzern erlaubt, alle Kontakte anzusehen und zu verändern, und eine zweite Gruppe genannt "Freiwillige", die die Kontakte ansehen, aber nicht ändern kann.
 
-## Activities
+## Aktivitäten
 
-An activity in **CiviCRM** is a record of any scheduled or completed
-interaction with one or more **contacts**. Examples include meetings,
-phone calls, emails, event attendances and contributions. You can define
-additional types of activities as needed.
+Eine Aktivität in **CiviCRM** ist ein Datensatz jeglicher geplanten oder vervollständigter Interaktion mit einem oder mehreren **Kontakten**. Beispiele hierfür sind Besprechungen, Telefongespräche, Emails, Teilnehmer bei Veranstaltungen und Beiträge (Zuwendungen). Du kannst zusätzliche Aktivitäten selbst definieren, so wie Du sie brauchst.
 
 ## Admin / Administrator
 
-The person or persons that maintain a **server** or web-based software
-like **CiviCRM**. Administration includes maintenance, configuration,
-**backup**, security, creating and deleting user accounts and so on. 
+Die Person die einen **Server** oder die webbasierte Software wie **CiviCRM** wartet und verwaltet. Administration beinhaltet Wartung, Konfiguration, **Backup**, für Sicherheit sorgen, Erstellung und Löschung von Benutzerkonten und so weiter. 
 
-## AGM (Annual General Meeting)
+## MV (Jährliche Mitgliederversammlung)
 
-An AGM is a meeting held every year by an organisation to inform its
-members of previous and future activities. Certain types of
-organisations are required by law to hold an AGM.
+Eine MV ist eine Versammlung, die jährlich abgehalten wird, um die Mitglieder über vergangene und zukünftige Aktivitäten zu informieren. Bestimmte Formen von Organisationen müssen rechtlich eine MV abhalten.
 
 ## AGPL (Affero General Public License)
 
-A license for **open source software**. **CiviCRM** uses the [AGPL
-version 3.0 license](http://www.affero.org/oagpl.html), which gives you
-the right to do with the **software** as you like and guarantees that
-the **source code** will always protect your rights in this way. 
+Eine Lizenz für **Open Source Software**. **CiviCRM** benutzt die [AGPL Version 3.0 lizenz](http://www.affero.org/oagpl.html), welche Dir dsa Recht gibt, mit der **Software** das zu machen was Du möchtest und Dir garantiert, dass der **Source Code** immer Deine Rechte schützen wird. 
 
 ## Alpha Version
 
-A **software**version that contains very new **source code** with new
-functionality and bug fixes. An alpha version is released for testing
-purposes, and for people who want to follow its development, but it is
-not considered to be anywhere near ready for general release or use.
+Eine **Software**version, die sehr neuen **Source Code** mit neuen Funktionen und Fehlerbereinigung hat. Eine Alpha-Version ist ausschließlich zum Testen da und für Leute, die der Entwicklung folgen, aber sie sollte niemals in der produktiven Umgebung benutzt werden.
 
 ## Apache
 
-The most popular web**server software**. Apache is free and **open
-source** (see also **FLOSS**).
+Die gängigste Web**server Software**. Apache ist frei und **Open Source** (see also **FLOSS**).
 
 ## API (Application Programming Interface)
 
-An interface employed by a **software** application to enable
-interaction between itself and other software. 
+Eine Schnittstelle für **Software** Anwendungen, um eine Interaktion zwischen dieser und anderer Software zu ermöglichen. 
 
 ## Backup
 
-Protecting your data by regularly making copies and storing them
-independently of the original files so they can be restored if
-necessary.
+Schütze Deine Daten vor Verlust, indem du regelmäßig Kopien anfertigst und diese unabhängig von den Originaldaten speicherst, so dass Du im Notfall von dieses aus Deine Daten wieder herstellen kannst.
 
-## Bandwidth
+## Bandbreite
 
-The speed at which you can transfer information through a network or
-internet connection. If a connection can transfer a lot of information
-it is said to be "high bandwidth" or "high speed."
+Die Geschwindigkeit, mit der Du Daten über ein Netzwerk oder eine Internetverbindung transferieren kannst. Wenn eine Verbindung sehr viel Information in kurzer Zeit transferieren kann redet man von "hoher Bandbreite" oder "Highspeed"-Verbindung.
 
 ## Beta Version
 
-A **software** version that is in good condition but still needs testing
-to make sure it functions as intended before general release. Testing
-beta versions is a helpful way to participate in the **CiviCRM**
-community.
+Eine **Software** Version die fast schon produktionsreif ist, aber noch getestet werden muss damit sichergestellt werden kann dass alles funktioniert wie es erwartet wird bevor sie veröffentlicht wird. Beta-Versionen auszutesten ist ein hilfreicher Weg, sich an der **CiviCRM**-Gemeinschaft zu beteiligen.
 
 ## Blog
 
-Short for web-log. A website which is regularly updated with news and
-views from one or more individuals.
+Kurz für Web-Log. Eine Webseite, die regelmäßig neue Artikel mit Neuigkeiten oder Meinungen/Kommentaren von einem oder mehreren Individuen enthält.
 
 ## Bug
 
-An error that prevents **software** from behaving as the user would
-expect.
+Ein Fehler, der bei **Software** dazu führt dass sie sich nicht wie erwartet verhält.
 
 ## Bug Reporting / Bug Fixing
 
-The process of reporting **bugs** to the **software** **developer**(s),
-and then fixing the bugs so the software operates as intended.**
-**
+Der Prozess um **Bugs** der **Software** den **Entwickler**(n) zu melden sowie das Korrigieren des **Bugs** damit die Software wie gewünscht funktioniert.
 
 ## Bug Tracker
 
-An official repository for recording **bugs**. The **CiviCRM** bug
-tracker can be found here:
-[http://issues.civicrm.org/](http://issues.civicrm.org) (click on Issue
-Tracker).[](http://issues.civicrm.org/jira/browse/CRM.)
+Eine offizielle Ablage in der **Bugs** aufgezeichnet werden. Der **CiviCRM** Bug Tracker befindet sich hier:[http://issues.civicrm.org/](http://issues.civicrm.org) (Klicke auf den "Issue Tracker").[](http://issues.civicrm.org/jira/browse/CRM.)
 
 ## Cache
 
-A recent copy of frequently used data that can be quickly and easily
-accessed. This is especially useful if the data is complicated or takes
-a large effort to generate. The disadvantage of caching is that data can
-become out of date, but this normally isn't a problem. Even caching data
-for 5 minutes might be useful in certain circumstances. If a page is
-accessed 1,000 times in 5 minutes, having a cached version means the
-data will only need to be generated once.
+Eine frische Kopie von oft verwendeten Daten, damit auf diese schnell und einfach zugegriffen werden kann. Dies ist besonders nützlich wenn die Daten sehr komplex sind oder es lange dauert sie zu generieren. Der Nachteil von Caching ist, dass Daten veraltet sein können, aber das ist normalerweise kein Problem. Selbst ein Caching von Daten für 5 Minuten kann unter Umständen nützlich sein. Wenn eine Webseite 1000 mal in fünf minuten aufgerufen wird, bewirkt der Cache dass die Daten für diese Webseite nur einmal erstellt werden müssen.
 
-A web cache holds copies of recently visited web page files. Sometimes a
-user may need to clear their web cache in order to see updated
-information on a web page.
+Ein Webcache hält Kopien von kürzlich aufgerufenen Seiten vor. Manchmal muss ein Besucher seinen Webcache leeren um aktuelle Informationen angezeigt zu bekommen.
 
 ## Canvassing
 
-Is the systematic initiation of direct contact with a target group of
-individuals commonly used during political campaigns. A campaign team
-(and during elections a candidate) will knock on doors of private
-residences within a particular geographic area, engaging in face-to-face
-personal interaction with voters. Canvassing may also be performed by
-telephone, where it is referred to as telephone canvassing.
+Ist der systematische Beginn einer direkten Kontaktaufnahme mit einer Zielgruppe von Individuen, üblicherweise während einer Kampagne. Ein Kampagnenteam (und während Wahlen ein Kandidat) geht üblicherweise von Tür zu Tür in einer bestimmten geographischen Gegend und spricht mit den Anwohnern und Wählern. Canvassing kann auch per Telefon durchgeführt werden, dann wird das Telefon-Canvassing genannt.
 
 ## Captcha
 
-A spam prevention tool. See **reCaptcha**. 
+Ein Spam-Verhinderungswerkzeug. Siehe **reCaptcha**. 
 
 ## CiviCase
 
-The case management **component** of **CiviCRM**. CiviCase provides
-service organisations with tools for structuring, scheduling and
-recording case activities. 
+Die Fall-Verwaltungs **komponente** von **CiviCRM**. CiviCase unterstützt Dienstleistungs-Organisationen mit Werkzeugen, um Fälle strukturiert zu erfassen, diese zu steuern und aufznehmen. 
 
 ## CiviContribute
 
-CiviContribute is an online fundraising and donor management
-**component** which enables you to track and manage contributions to
-your organisation.
+CiviContribute ist eine **Komponente** zum Geldsammeln und Spendenverwalten Online. Damit kannst Du die Zuwendungen an Deine organisation aufbereiten verwalten.
 
 ## CiviCRM
 
-What this whole manual is about! **CiviCRM** is web-based, **open source
-software** that allows you to record and manage information about your
-various **constituents** including volunteers, activists, donors,
-employees, **clients**, vendors, etc.
+Das worum es sich in diesem Handbuch dreht. **CiviCRM** ist eine Web-basierte, **Open Source Software** die es erlaubt, Informationen über Deine verschiedene **Wähler**, inklusive Freiwillige, Aktivisten, Spender, Arbeitnehmer, **Klienten**, Verkäufer usw. zu speichern und zu verwalten.
 
 ## CiviDog
 
-See **Scout**.
+Suehe **Scout**.
 
 ## CiviEngage
 
-CiviEngage is a Drupal module that enhances CiviCRM's core functions for
-non-profits focused on community organizing groups and civic engagement
-work. CiviEngage provides a package of custom fields, reports and
-features to track the history of engagement, involvement, and activities
-of constituents over time. This package also integrates Campaigns and
-Surveys to provide WalkLists and PhoneBank Lists.
+CiviEngage ist ein Drupal Modul, das die Kernfunktionen von CiviCRM für Nicht-Profitorganisationen erweitert, welche sich auf gemeinschaftlich organisierte Gruppen und Bürgerengangement fokussieren. CiviEngage biete ein Paket von maßgeschneiderten Datenfeldern, Berichten und Funktionen an, um die Historie von Engagement, Einsatz und Aktivitäten von Wählern über die Zeit zu erfassen. Dieses Paket integriert auch Kampagnen und Meinungsumfragen, um Begehungslisten und Telefonlisten zu erstellen.
 
 ## CiviEvent
 
-CiviEvent provides integrated online event registration and management
-for paid and free events.
+CiviEvent führt eine in CiviCRM integrierte Online-Veranstaltungs-Registrierung sowie eine Verwaltung für kostenpflichtige und kostenlose Veranstaltungen ein.
 
 ## CiviMail
 
-CiviMail is a mass-mailing **component** which allows you to engage
-**constituents** with personalised email blasts and newsletters.
+CiviMail ist eine Massen-Email **Komponent**e, welche es Dir erlaubt, Deine **Wähler** mit personalisierten Emails und Newslettern zu informieren.
 
 ## CiviPledge
 
-CiviPledge is a component that allows the flexibility to create various
-types of fundraisers. Allows to individuals to donate daily, weekly,
-monthly or yearly.
+CiviPledge ist eine Kompente, die es flexibel ermöglicht, verschiedene Typen von Spendensammlungen zu erstellen. Es erlaubt individuellen Spendern täglich, wöchentlich, monatlich oder jährlich zu spenden.
 
-## Client
+## Kunde (Client)
 
-A term used sometimes instead of **constituent** or **contact**, more
-often in a context involving a financial transaction.
+Der Begriff wird manchmal benutzt anstelle von **Wähler** oder **Kontakt**, oft im Kontext von Finanztransaktionen.
 
-Client is also a term for a system (computer) or application that
-accesses a remote computer such as a web **server** to receive
-information; examples include a personal computer that is connected to
-the internet, or an email application that downloads email from a
-server. 
+Kunde (Client) ist ebenso der Begriff für einen Computer, der auf einen Web**Server** zugreift, um Informationen zu erhalten; beispielsweise ein PC, der an das Internet angeschlossen ist, oder ein Emailprogramm, welches EMails von einem Mailserver herunterläd. 
 
-## Closed Software
+## Geschlossene Software
 
-Software that does not allow users to access its **source code**, as
-opposed to **open source software**. See also **proprietary software**.
+Software, die einem nicht den Zugang zum **Quellcode** erlaubt, im Gegensatz zu **Open Source Software**. Siehe **proprietäre Software**.
 
 ## CMS (Content Management System)
 
-An application used to create, edit, manage, search and publish various
-kinds of digital content (text and other media such as images and
-videos). Web-based CMS allow organisations to add and manage content on
-their website without requiring advanced technical skills. **CiviCRM**
-is integrated with a CMS (currently **WordPress**, **Drupal** or
-**Joomla!**) which helps to facilitate **client** interaction.
+Eine Applikation, die zum Erstellen, Ändern, Verwalten, Suchen und Publizieren von verschiedenem digitalen Kontent benutzt wird (wie zum Beispiel Text oder andere Medien wie Bilder und Videos). Web-basierte CMS erlauben Organisationen, Inhalte auf ihrer Webseite zu erstellen oder zu verwalten, ohne dass tiefergehendes technisches Wissen dafür notwendig ist. **CiviCRM** ist in ein CMS integriert (zum jetzigen Zeitpunkt sind das **WordPress**, **Drupal** oder **Joomla!**), die bei der Benutzer/Kundeninteraktion unterstützen.
 
-## Component
+## Komponente
 
-A part of a **CMS** or other application that can be enabled or
-disabled, according to the needs of the user. Examples include
-**CiviEvent** or **CiviCase**. See also **module.**
+Ein Teil eines **CMS** oder einer anderen Applikation der an- oder ausgeschaltet werden kann, je nachdem ob der Benutzer diese Funktion benötigt. Beispiele dafür sind **CiviEvent** oder **CiviCase**. Siehe auch**Modul**.
 
 ## Community Advisory Group
 
-A representative group of people from the **CiviCRM** community who work
-with the CiviCRM team on project development.
+Eine repräsentative Gruppe von Personen aus der **CiviCRM** Gemeinschaft, die zusammen mit dem CiviCRM Team an der Projektentwicklung arbeiten.
 
 ## Cookie
 
-A file stored on your computer and used by a website to identify you on
-return visits. Some websites cannot be accessed unless you allow your
-computer to accept and store cookies.
+Eine auf dem eigenen Computer gespeicherte Datei, die benutzt wird um Dich bei der Rückkehr auf die Webseite identifizieren zu können. Einige Webseiten können gar nicht angezeigt werden, wenn Du keine Cookies zulässt.
 
-## Constituent
+## Konstituent
 
-A constituency is usually defined as a group of people bound by shared
-identity, goals, or loyalty. In **CiviCRM**, "constituents" is used to a
-describe all supporters, current or potential, of a given organisation.
-See also **contact**and**client.**
+Ein "Konstituent" ist üblicherweise definiert als eine Gruppe von Personen, die dieselbe Identität, Ziele oder Ideale teilt. In **CiviCRM**, ein "Konstituent" wird benutzt wenn um alle Unterstützer (aktuelle oder mögliche) einer bestimmten Organisation zu beschreiben. Siehe auch **Kontact** und **Klient.**
 
-## Contact
+## Kontact
 
-In **CiviCRM** a contact is either an individual, an organisation or a
-household about whom information is stored in the database. See also
-**constituent** and **client**.
+In **CiviCRM** ist ein Kontakt entweder ein Individuum, eine Organisation oder ein Haushalt, über den Informationen in der Datenbank gespeichert sind. Sie auch **Konstituent** oder **Klient**.
 
-## Contact Summary Screen
+## Kontakt-Gesamtanzeige
 
-A page that displays at a glance all the data about an individual,
-organisation or household that is stored in the **CiviCRM** database.
+Eine Seite, die auf einem Blick alle Daten über ein Individuum, eine Organisation oder einen Haushalt darstellt, die in der **CiviCRM**-Datenbank gespeichert sind.
 
-## Core Code
+## Kern Code
 
-The **source code** that constitutes the official code of **CiviCRM**.
-Also called core.
+Der **Source Code** der den offiziellen **CiviCRM**-Code darstellt. Auch Kern genannt.
 
-## Core Data Field
+## Kern Datenfeld
 
-A field that is included in a record structure "out-of-the-box". For
-example, the **CiviCRM** **contact** record includes First Name as a
-core field.
+Ein Feld, das in der initialen Datensatz-Struktur eingebunden wurde. Zum Beispiel hat der **CiviCRM**-**Kontakt**-Datensatz den Vornamen als Kern Datenfeld eingebunden.
 
-## Core Team
+## Kernteam
 
-The people most closely involved with **CiviCRM** development.
+Die Personen die am meisten mit der Entwicklung von **CiviCRM** beschäftigt sind.
 
 ## CRM
 
-Acronym for Contact (or Constituent, Customer or Client) Relationship
-Management. CRM (or eCRM) **software** was originally developed from a
-sales perspective, to help companies track and organise their
-interactions with current and potential customers. **CiviCRM** is
-oriented specifically toward the needs of **non-profits**, advocacy and
-non-governmental organisations, so the term "customer" is replaced with
-"**constituent**". Outside the USA it is often referred to as Contact
-Relationship Management. 
+englische Abkürzung für Kontakt (oder Wähler, Kunde or Klient) Relations Management. CRM (oder eCRM) **Software** war ursprünglich aus einer Verkaufs-Perspektive entwickelt worden, um Firmen bei der Interaktion mit aktuellen und zukünftigen Kunden zu unterstützen. **CiviCRM** hingegen ist speziell auf die Anforderungen von **Nicht-Profit**, **Anwaltlichen** und Nicht-Regierungs-Organisationen aufgesetzt, so dass der Begriff "Kunde" durch den Begriff **Wähler** ersetzt wird. Ausserhalb der USA wird üblicherweise von einemContact Relationship Management gesprochen. 
 
 ## Cron
 
-Cron is the time-based job scheduler in Unix-like computer operating
-systems. Cron enables users to schedule jobs (commands or shell scripts)
-to run periodically at certain times or dates. It is commonly used to
-automate system maintenance or administration. Cron is used to
-in **CiviCRM** to trigger specific tasks, such as sending membership
-renewal reminders or processing ongoing payments, or to run all jobs
-enabled under the Scheduled Jobs page at their configured frequency.
+Cron ist ein zeitbasierter Job-Planer auf Unix-ähnlichen Computerbetriebssystemen. Cron ermöglicht Benutzern Aufgaben (Kommandos oder Shell-Scripte) zu planen und diese periodisch zu bestimmten Uhrzeiten und Tagen auszuführen. Cron wird üblicherweise benutzt, um Wartungsarbeiten oder Verwaltungsaufgaben zu automatisieren. Innerhalb von **CiviCRM** wird Cron benutzt, um bestimmte wiederkehrende Aufgaben durchzuführen, wie zum Beispiel das Versenden von Erinnerungen an die Mitgliedschafts-Erneuerungen oder Zahlungen zu verarbeiten. Und natürlich um alle Aufgaben auszuführen, die auf der entsprechenden Webseite aufgelistet sind, mit ihrem Start-Zeitpunkt.
 
 ## CRUD
 
-Create, Read, Update and Delete: the basic functions performed on
-databases.
+Englisch für Erstellen (Create), Lesen (Read), Aktualisieren(Update) und Löschen(Delete): die Basisfunktionen die auf Datenbanken durchgeführt werden.
 
 ## CSS (Cascading Style Sheets)
 
-A way to control the style of a website by defining design and layout
-elements in a single file which is linked to all files in a website and
-applies the style across the site. An element, such as the formatting of
-a heading or a background colour, can be changed once in the CSS file to
-effect a change on all pages of the site. 
+Ein Weg, den Stil einer Webseite zu kontrollieren, indem man das Design und die Layoutelemente in einer Datei definiert, welche von allen Dateien der Webseite referenziert wird und dadurch den Stil über die ganze Webseite hinweg vorgibt. Ein Element, wie zum Beispiel das Format einer Überschrift oder die Hintergrundfarbe, kann einmal in der CSS-Datei geändert werden und die Änderung wird dann auf allen Webseiten angezeigt. 
 
-## CSV (Comma Separated Values)
+## CSV (Komma-separierte Werte)
 
-A simple format for a spreadsheet. CSV files are text files where each
-cell is separated by a comma, and each row is separated with a return.
-This very simple format is understandable by many different programmes.
+Ein einfaches Format für eine Tabellenkalkulation oder für Exporte. CSV-Datei sind Textdateien, bei der jede Zelle durch ein Komma separiert ist und jede Zeile durch ein "Return" getrennt ist. Dieses sehr einfache Format kann von vielen verschiedenen Programmen eingelesen werden.
 
 
-## Custom Data Field
+## Maßgeschneidertes Datenfeld (Custom Data Field)
 
-A field that is added to the data structure of a **CiviCRM** record by
-your organisation. Custom data fields extend the information that can be
-stored in that type of record. For example, your organisation might need
-a custom field to record each **contacts**' professional qualifications,
-or the food preferences of event participants. 
+Ein Feld, das in die Datenstruktur von einem **CiviCRM** Datensatz von Deiner Organisation hinzugefügt wurde. Maßgeschneiderte Datenfelder erweitern die Informationen, die in dem Typ von Datensatz gespeichert werden können. Beispielsweise braucht Deine Organisation ein angepasstes Feld, um die Qualifikation jedes Kontaktes zu speichern, oder um Essensgewohnheiten zu vermerken oder auch um zu wissen, an welchen Veranstaltungen jemand teilgenommen hat. 
 
-## Dashboard
+## Instrumententafel
 
-A user's homepage, which displays when the user logs in to **CiviCRM**
-and which can be personalised with **dashlets**. 
+Die Einstiegsseite eines Benutzers, welche angezeigt wird wenn der Benutzer sich in **CiviCRM** einloggt und die mit **dashlets** personalisiert werden kann. 
 
 ## Dashlet
 
-A report on some data in the **CiviCRM** database, configured to appear
-on a user's **dashboard**. For example, monthly figures in graph and/or
-numerical form, appointments for the day, or a list of new memberships.
+Ein Bericht über einige Daten in der **CiviCRM** Datenbank, so konfiguriert dass er auf der **Instrumententafel** des Benutzers angezeigt wird. Dies können zum Beispiel monatliche Auswertungen in graphischer oder numerischer Form sein, Termine des Tages oder eine Liste der neuen Mitgliedschaften.
 
-## Data Centralisation
+## Datenzentralisierung
 
-Storing all your data in one place.
+Bezeichnet das Speichern aller Deiner Daten an einer Stelle.
 
-## Database
+## Datenbank
 
-Is a collection of information that is organized so that it can easily
-be accessed, managed, and updated. In one view, databases can be
-classified according to types of content: bibliographic, full-text,
-numeric, and images.
+Ist eine Ansammlung von Informationen, die so organisiert und strukturiert abgelegt sind, dass sie einfach aufgerufen, verwaltet und aktualisiert werden können. Datenbanken können auf oberster Ebene nach der Art des Inhalts klassifiziert werden: Bibliographisch, Volltext, numerisch oder mit Bildern.
 
-Demo Site
+Demo Seite
 
-A website that allows you to test and explore the functionality of a
-piece of software. **CiviCRM** maintains three demos sites: one
-integrated with **Drupal**, one integrated with **Joomla!** and one in
-standalone mode. 
+Eine Webseite die Dir das Testen und ausprobieren von Funktionalitäten einer Software erlaubt. **CiviCRM** stellt drei Demo Seiten zur Verfügung: Eine integriert in das **Drupal**-CMS, eine integriert in das **Joomla!**-CMS und eine im Standalone-Modus ohne ein CMS. 
 
-## Dedupe
+## Deduplikation
 
-Refers to the task of finding and merging multiple entries for one
-**contact**.
+Beschreibt die Aufgabe, Duplikate in Datensätzen zu finden und zu einem **Kontakt** zusammenzufügen
 
-## Developer
+## Entwickler
 
-Someone who develops **software**.
+Jemand der **Software** entwickelt.
 
 ## Domain
 
-See **DNS**.
+Siehe **DNS**.
 
-## Donor
+## Spender
 
-Someone who makes a donation, i.e. voluntarily gives money to an
-organisation.
+Jemand der spendet, zum Beispiel freiwillig Geld an eine Organisation gibt.
 
 ## DNS (Domain Name System)
 
-The Domain Name System (DNS) converts domain names, which are made up of
-easy-to-remember combinations of letters (example.com), to IP addresses
-(123.456.123.234) which are hard-to-remember strings of numbers. Every
-computer on the internet has an unique address (a little bit like an
-area code + telephone number).
+Das Domain Namens-System übersetzt Domain-Namen die aus leicht zu merkenden Kombinationen aus Buchstaben bestehen (beispiel.de) in IP-Adressen (123.456.123.234), schwer zu merkende Nummernblöcke. Jeder Computer im Internet hat eine eindeutige Adresse (so ähnlich wie die Vorwahl und Telefonnummer).
 
 ## Drupal
 
-An open source **CMS** that integrates with **CiviCRM** to provide a
-user-interface and additional website functionality
-([http://drupal.org](http://drupal.org/)).
+Ein **Open Source** **CMS** welches **CiviCRM** einbindet um eine Benutzer-Schnittstelle zu integrieren und zusätzliche Webseiten-Funktionalitäten zu bieten. ([http://drupal.org](http://drupal.org/)).
 
-## Encryption
+## Verschlüsselung
 
-A way of disguising data when it is being transferred from one computer
-to another so that it is unreadable by any other computer that it may
-pass through on the way.
+Ein Weg, um die Vertraulichkeit von Daten auf dem Transfer von einem Computer zum anderen sicherzustellen, so dass die Daten für niemanden lesbar sind, der zwischen den beiden Computern mitlesen kann.
 
-## Environment
+## Umgebung
 
-The specific hardware and operating system on which you are running your
-**software**. 
+Die spezifische Hardware und das Betriebssystem auf der du die **Software** benutzt. 
 
-## Event Listing Feed
+## Veranstaltungs-Notifikation (Event Listing Feed)
 
-A **RSS feed** containing the list of events defined in **CiviEvent**.
+Ein **RSS feed**, der eine Liste der Veranstaltungen enthält die in **CiviEvent** definiert wurden.
 
 ## Firefox
 
-A popular free and **open source** web browser, developed by the Mozilla
-Foundation ([http://www.mozilla.com](http://www.mozilla.com))
+Ein populärer freier Web-Browser, entwickelt von der Mozilla Foundation ([http://www.mozilla.com](http://www.mozilla.com)).
 
-## FLOSS (Free/Libre Open Source Software)
-
-**Software** that is licensed so as to guarantee the essential freedoms
-of users to its **source code** and reuse. A combination of "**free
-software**" and "**open source software**", with "libre" added in to
-emphasise that software freedom is essentially a matter of rights, not
-price.
+## FLOSS (Free/Libre Open Source Software)**Software** die so lizensiert ist dass sie die Freiheit des Sourcecodes und die Wiederverwendbarkeit garantiert. Eine Kombination von "**Freier Software**" und "**Open Source Software**", welche das Schlagwort "libre" hinzufügt, um auf die Freiheit hinzuweisen, dass Softwarefreiheit eine Sache der (Lizenz-)Rechte ist und nicht des Preises.
 
 ## FOSS
 
-Free and Open Source Software - see **FLOSS**.
+Freie and Open Source Software - siehe **FLOSS**.
 
 ## Forum
 
-A web-based online discussion tool (see
-[http://forum.civicrm.org/](http://forum.civicrm.org/)).
+Ein webbasierte Online-Diskussions-Werkzeug (siehe [http://forum.civicrm.org/](http://forum.civicrm.org/)).
 
-## Free Software
-
-**Software** that is licensed so that you can use and distribute it
-without restriction. **CiviCRM** is free software. See also **FLOSS**. 
+## Freie Software**Software**, die so lizensiert ist dass Du sie ohne jegliche Einschränkung nutzen und weitergeben kannst. **CiviCRM** ist freie Software. Siehe auch **FLOSS**. 
 
 ## FTP (File Transfer Protocol)
 
-The FTP protocol is used for file transfers from one computer to another
-over the internet. Many people use it for downloads, and it can also be
-used to upload files to web **servers**. A popular free and **open
-source** FTP **client** for Windows is FileZilla. There are also
-web-based FTP clients that you can use with a normal web browser like
-Firefox.
+Das FTP Protokoll wird benutzt, um Dateien von einem Computer zum anderen über das Internet zu schicken. Viele Leute benutzen FTP für Downloads, aber es kann auch für Uploads auf den Web**Server** verwendet werden. Ein freier und bekannter und **Open Source** FTP **Klient** für Windows ist FileZilla. There are also web-based FTP clients that you can use with a normal web browser like Firefox.
 
 ## Functionality
 
@@ -422,22 +271,15 @@ The set of tasks that a piece of **software** can perform.
 
 ## Geocoding
 
-The process of finding associated geographic coordinates (often
-expressed as latitude and longitude) from other geographic data, such as
-street addresses, or zip codes (postal codes).
+The process of finding associated geographic coordinates (often expressed as latitude and longitude) from other geographic data, such as street addresses, or zip codes (postal codes).
 
 ## GUI (Graphical User Interface)
 
-User interface offering windows, icons, mouse control, multiple fonts,
-and so on - the normal way for non-programmers to communicate with their
-computers. The alternative to a GUI is a command line interface with
-text only.
+User interface offering windows, icons, mouse control, multiple fonts, and so on - the normal way for non-programmers to communicate with their computers. The alternative to a GUI is a command line interface with text only.
 
 ## Hook
 
-Hooks are a common way to extend systems and a powerful way to extend
-CiviCRM's functionality, incorporate additional business logic, and even
-integrate CiviCRM with external systems.
+Hooks are a common way to extend systems and a powerful way to extend CiviCRM's functionality, incorporate additional business logic, and even integrate CiviCRM with external systems.
 
 ## Household
 
@@ -445,9 +287,7 @@ Is a family or group of people who share a physical location.
 
 ## Hosting Service
 
-A service (usually commercial) that provides **server** space for your
-website. Hosting services also can provide physical space to put your
-own server in so that it is connected to the internet.
+A service (usually commercial) that provides **server** space for your website. Hosting services also can provide physical space to put your own server in so that it is connected to the internet.
 
 ## ICT
 
@@ -455,63 +295,43 @@ Acronym for Information and Communication Technology.
 
 ## Internationalisation: i8n
 
-The process of making **software** ready for adoption in different
-countries and different cultures, without the need to modify it
-technically. This is done by the **developer**(software engineer) when
-writing the software. See also **Localisation**. 
+The process of making **software** ready for adoption in different countries and different cultures, without the need to modify it technically. This is done by the **developer**(software engineer) when writing the software. See also **Localisation**. 
 
 ## Internet Service Provider (ISP)
 
-A business that provides services such as internet access, email,****and
-website hosting. 
+A business that provides services such as internet access, email,****and website hosting. 
 
 ## Intranet
 
-A network of computers that are connected within a home or office but
-not accessible from outside the local network. 
+A network of computers that are connected within a home or office but not accessible from outside the local network. 
 
-IT
---
+IT --
 
 Acronym for Information Technology.
 
 ## JavaSacript
 
-A scripting language primarily used in web pages to display dynamic
-content. 
+A scripting language primarily used in web pages to display dynamic content. 
 
 ## Joomla!
 
-A **CMS** that can integrate with **CiviCRM** to provide a user
-interface and additional website functionality
-([http://www.joomla.org](http://www.joomla.org/)). 
+A **CMS** that can integrate with **CiviCRM** to provide a user interface and additional website functionality ([http://www.joomla.org](http://www.joomla.org/)). 
 
 ## LAMP
 
-Is an acronym for a solution stack of free, open source software,
-originally coined from the first letters of Linux (operating system),
-Apache HTTP Server, MySQL (database software) andPerl/PHP/Python,
-principal components to build a viable general purpose web server.
+Is an acronym for a solution stack of free, open source software, originally coined from the first letters of Linux (operating system), Apache HTTP Server, MySQL (database software) andPerl/PHP/Python, principal components to build a viable general purpose web server.
 
 ## Linux
 
-A type of operating system (other common operating systems are Windows
-and Mac OS). Linux has been popular as a web **server** for a long time
-and is now gaining popularity on personal laptops and desktop computers.
-Linux is **free software**and**open source.**
+A type of operating system (other common operating systems are Windows and Mac OS). Linux has been popular as a web **server** for a long time and is now gaining popularity on personal laptops and desktop computers. Linux is **free software**and**open source.**
 
 ## Local Computer
 
-A computer that runs **CiviCRM** but is not publicly available via the
-internet. This could be your personal or home computer, or it can be in
-your office. It can also be called a **client** computer in the context
-of receiving information from a **server**
+A computer that runs **CiviCRM** but is not publicly available via the internet. This could be your personal or home computer, or it can be in your office. It can also be called a **client** computer in the context of receiving information from a **server**
 
 ## Localisation: L10n
 
-The process of translating a product into different languages or
-adapting a language for a specific country or region. This is done by
-translators with no need for technical wizardry.
+The process of translating a product into different languages or adapting a language for a specific country or region. This is done by translators with no need for technical wizardry.
 
 ## Mail Server
 
@@ -519,28 +339,19 @@ A computer that transfers email from one computer to another.
 
 ## Mapping Provider
 
-A service provider that allows displaying contact locations on maps -
-Google Maps or Yahoo Maps in **CiviCRM**.
+A service provider that allows displaying contact locations on maps - Google Maps or Yahoo Maps in **CiviCRM**.
 
 ## Module
 
-A part of a system, also called a **component**. **CiviCRM** includes a
-number of modules, each of which adds functionality to the basic contact
-management features. For example, the **CiviEvent** module provides
-event management functionality. Organisations using CiviCRM can turn
-modules on or off, according to their needs.
+A part of a system, also called a **component**. **CiviCRM** includes a number of modules, each of which adds functionality to the basic contact management features. For example, the **CiviEvent** module provides event management functionality. Organisations using CiviCRM can turn modules on or off, according to their needs.
 
 ## MySQL
 
-A popular database engine. **CiviCRM** uses MySQL to hold its data.
-MySQL is **free software**. ([http://mysql.com](http://mysql.com))
+A popular database engine. **CiviCRM** uses MySQL to hold its data. MySQL is **free software**. ([http://mysql.com](http://mysql.com))
 
 ## NGO (Non-Governmental Organisation)
 
-A legally constituted non-business organisation with no participation or
-representation from government. In the United States, this type of
-organisation is more often referred to as a **Non-profit**. They may be
-also called civil society organisations or not-for-profits*.*
+A legally constituted non-business organisation with no participation or representation from government. In the United States, this type of organisation is more often referred to as a **Non-profit**. They may be also called civil society organisations or not-for-profits*.*
 
 ## Non-Profit
 
@@ -548,20 +359,13 @@ see **NGO.**
 
 ## Online Contribution Page
 
-A function of **CiviCRM** which allows the creation of a page on the
-website where visitors can make online donations using credit cards.
+A function of **CiviCRM** which allows the creation of a page on the website where visitors can make online donations using credit cards.
 
 ## Open ID
 
-A convenient free system to use a single digital identity across the
-internet.
+A convenient free system to use a single digital identity across the internet.
 
-## Open Source Software
-
-**Software** with **source code** that is publicly available, as opposed
-to **proprietary software**; see also **FLOSS**. Open source software is
-based on the philosophy that sharing and collaborating on code leads to
-better software and greater benefit for everyone.
+## Open Source Software**Software** with **source code** that is publicly available, as opposed to **proprietary software**; see also **FLOSS**. Open source software is based on the philosophy that sharing and collaborating on code leads to better software and greater benefit for everyone.
 
 ## Payment Instrument
 
@@ -569,30 +373,23 @@ Medium or method that is used for online payments.
 
 ## Payment Processor
 
-A company (usually a third party) appointed by a merchant to handle
-credit card transactions for merchant banks. A payment processor is
-required to handle online transactions through a system such as
-**CiviCRM**. 
+A company (usually a third party) appointed by a merchant to handle credit card transactions for merchant banks. A payment processor is required to handle online transactions through a system such as **CiviCRM**. 
 
 ## Permissions
 
-Allow you to limit access for different users to different parts of the
-system.
+Allow you to limit access for different users to different parts of the system.
 
-## Personal Campaign Pages
+## Persönliche Kampagnenseiten
 
-A feature of **CiviCRM** that can be enable to allow **constituents** to
-create their own fundraising pages.
+A feature of **CiviCRM** that can be enable to allow **constituents** to create their own fundraising pages.
 
 ## PHP
 
-The programming language in which the majority of **CiviCRM** is
-written.
+The programming language in which the majority of **CiviCRM** is written.
 
 ## Ping
 
-Sending and receiving small amounts of data to and from a server; often
-used to measure the response time across the network.
+Sending and receiving small amounts of data to and from a server; often used to measure the response time across the network.
 
 ## Point Person
 
@@ -600,54 +397,39 @@ Someone given the responsibility to keep their eye on a certain issue.
 
 ## PhoneBank List
 
-A list created using CiviReport to make it easy for volunteers to call
-constituents en masse. This is often done to invite them to vote,
-request that they volunteer, take action, or donate.
+A list created using CiviReport to make it easy for volunteers to call constituents en masse. This is often done to invite them to vote, request that they volunteer, take action, or donate.
 
 ## Premium
 
-A gift that can be offered to contributor in exchange for donation.
-**CiviCRM** allows offering premiums as a part of the donation gathering
-process.
+A gift that can be offered to contributor in exchange for donation. **CiviCRM** allows offering premiums as a part of the donation gathering process.
 
 ## Price Sets
 
-A way of storing and re-using complicated price structures for events.
-For example, you can charge for different elements of an event.
+A way of storing and re-using complicated price structures for events. For example, you can charge for different elements of an event.
 
 ## Primary Location
 
-The information that a **constinutent** wants to be used as their main
-point of contact for mailings etc.
+The information that a **constinutent** wants to be used as their main point of contact for mailings etc.
 
-## Profiles
+## Profile
 
 A set of fields used for collecting, modifying, and sharing data. See [Profles](/organising-your-data/profiles.md) for more information.
 
 ## Proprietary software
 
-Also called **closed software** or closed source software. **Software**
-licensed so that you cannot access the **source code** and modify it
-without first coming to an agreement with the authors. See also **open
-source software**.
+Also called **closed software** or closed source software. **Software** licensed so that you cannot access the **source code** and modify it without first coming to an agreement with the authors. See also **open source software**.
 
 ## Protocol
 
-An agreed-upon method of doing something. HTTP and SMTP are two
-examples, one being an agreement on how to transfer website data across
-the web, the other an agreement on how email will be transferred across
-the web. 
+An agreed-upon method of doing something. HTTP and SMTP are two examples, one being an agreement on how to transfer website data across the web, the other an agreement on how email will be transferred across the web. 
 
 ## Radio Button
 
-An element of a web-based application user interface that allows the
-user to choose only one of a predefined set of options. Usually
-indicated by a white circle that can be filled with a click.
+An element of a web-based application user interface that allows the user to choose only one of a predefined set of options. Usually indicated by a white circle that can be filled with a click.
 
 ## reCAPTCHA
 
-A common tool for testing whether a user is a human or a computer, used
-to prevent spam.
+A common tool for testing whether a user is a human or a computer, used to prevent spam.
 
 ## Requirements
 
@@ -655,212 +437,130 @@ The things that you require a particular **software** application to do.
 
 ## Rich Text Editor
 
-A text editor that allows you to add formatting, such as bold, italic
-and underline, to text (as opposed to just plain text).
+A text editor that allows you to add formatting, such as bold, italic and underline, to text (as opposed to just plain text).
 
 ## Root Domain
 
-The 'raw' **URL** of a website without 'www' or any other **subdomain**.
-For example, [http://civicrm.org/](http://civicrm.org/) is the root
-domain while [http://www.civicrm.org/](http://www.civicrm.org/) is not.
+The 'raw' **URL** of a website without 'www' or any other **subdomain**. For example, [http://civicrm.org/](http://civicrm.org/) is the root domain while [http://www.civicrm.org/](http://www.civicrm.org/) is not.
 
 ## RSS (Really Simple Syndication) Feed
 
-RSS feeds are a way to publish frequently updated information, either
-for inclusion on a website or to be read by an RSS reader.
+RSS feeds are a way to publish frequently updated information, either for inclusion on a website or to be read by an RSS reader.
 
 ## RSVP
 
-"Répondez s'il vous plaît", a French phrase that translates to "please
-respond". Commonly used to request confirmation (or declining) of
-attendance at an event.
+"Répondez s'il vous plaît", a French phrase that translates to "please respond". Commonly used to request confirmation (or declining) of attendance at an event.
 
 ## Script
 
-A script is a short programme that does one specific task. Many web
-pages include scripts to manage user interaction, so that the **server**
-does not have to send a new page for each change.
+A script is a short programme that does one specific task. Many web pages include scripts to manage user interaction, so that the **server** does not have to send a new page for each change.
 
 ## Scout
 
-The **CiviCRM** Book Sprint official dog. Scout likes dog biscuits,
-rolling on the ground, eating snow and proof-reading.
+The **CiviCRM** Book Sprint official dog. Scout likes dog biscuits, rolling on the ground, eating snow and proof-reading.
 
 ## Sendmail
 
-Sendmail is one of the most popular mail transfer agents (MTA) used for
-handling email on a **server**. Sendmail is free and **open source
-software**.
+Sendmail is one of the most popular mail transfer agents (MTA) used for handling email on a **server**. Sendmail is free and **open source software**.
 
 ## Server
 
-1. Software that "serves" content to a **client**. See **Apache**, or
-**Mail Server** for two examples. 
+1. Software that "serves" content to a **client**. See **Apache**, or **Mail Server** for two examples. 
 
-2. A computer that is used primarily to serve content. Any computer can
-be set up this way, but the term traditionally refers to those that
-deliver web content. See also **client** computer. 
+2. A computer that is used primarily to serve content. Any computer can be set up this way, but the term traditionally refers to those that deliver web content. See also **client** computer. 
 
 ## Shared Hosting
 
-A website hosting service, where multiple websites reside on single
-**server**.
+A website hosting service, where multiple websites reside on single **server**.
 
 ## Smart Group
 
-A group in **CiviCRM** to which **contacts** are automatically assigned.
-Smart groups are created by running and then saving a search. They are
-useful for groups that might change frequently, for example "donations
-over $1000 in the last month".
+A group in **CiviCRM** to which **contacts** are automatically assigned. Smart groups are created by running and then saving a search. They are useful for groups that might change frequently, for example "donations over $1000 in the last month".
 
 ## SMTP
 
-Simple Mail Transfer Protocol. A standard or **protocol** used by email
-**software** to transfer (send) email.
+Simple Mail Transfer Protocol. A standard or **protocol** used by email **software** to transfer (send) email.
 
 ## Soft Credit
 
-Allows you to credit a **contact** for a donation made by someone, for
-example the person who inspired the actual donor to make a donation. See
-**Personal Campaign Pages**.
+Allows you to credit a **contact** for a donation made by someone, for example the person who inspired the actual donor to make a donation. See **Personal Campaign Pages**.
 
 ## Software
 
-Applications (also called programs or programmes) that enable specific
-functionality on your computer. There are many broad categories of
-software such as web browsers, word processors and email **clients**.
-Within each category there are many available softwares that perform the
-functions you require. For example, Firefox and Internet Explorer are
-two commonly-used web browsers.
+Applications (also called programs or programmes) that enable specific functionality on your computer. There are many broad categories of software such as web browsers, word processors and email **clients**. Within each category there are many available softwares that perform the functions you require. For example, Firefox and Internet Explorer are two commonly-used web browsers.
 
 ## Software License
 
 The terms you must accept before using a piece of **software**.
 
-## Source Code
-
-**Software** is created by writing instructions that a computer
-understands. These lines of instructions are known as **code** or source
-code.
+## Source Code**Software** is created by writing instructions that a computer understands. These lines of instructions are known as **code** or source code.
 
 ## SSL (Secure Sockets Layer)
 
-One way of making internet communication secure. You can easily see if
-you are using SSL by looking at the URL in your browser: if it starts
-with https instead of http, your connection is using SSL.
+One way of making internet communication secure. You can easily see if you are using SSL by looking at the URL in your browser: if it starts with https instead of http, your connection is using SSL.
 
 ## SSL Certificate
 
-Provided by the server to prove its identity, in the same way that a
-person carries a passport or driving license. See also **SSL** (Secure
-Sockets Layer).
+Provided by the server to prove its identity, in the same way that a person carries a passport or driving license. See also **SSL** (Secure Sockets Layer).
 
 ## Stable Version
 
-A version of **software** that has been tested and is considered to be
-ready for general use.
+A version of **software** that has been tested and is considered to be ready for general use.
 
-## Token
-
-[Tokens](/common-workflows/tokens-and-mail-merge.md) are used in **CiviCRM** to insert elements such as a
-**contact**'s name or a standard greeting into emails being sent from
-the system. In an email sent to a group of people, the token
-{first.name} will be replaced with actual name of each message
-recipient, in the email that each individual receives.
+## Token[Tokens](/common-workflows/tokens-and-mail-merge.md) are used in **CiviCRM** to insert elements such as a **contact**'s name or a standard greeting into emails being sent from the system. In an email sent to a group of people, the token {first.name} will be replaced with actual name of each message recipient, in the email that each individual receives.
 
 ## Upgrade
 
-The process of replacing **software** with a newer **version** of the
-same software. An upgrade may fix bugs, improve security, enable the
-software to continue to work with upgraded operating systems, or provide
-new features and other enhancements.****
+The process of replacing **software** with a newer **version** of the same software. An upgrade may fix bugs, improve security, enable the software to continue to work with upgraded operating systems, or provide new features and other enhancements.****
 
 ## URL
 
-Acronym for Unique Resource Locator, sometimes referred to as a
-Universal Resource Indicator, or URI. The technical convention that
-identifies the location of a resource on a network. The resource might
-be a web page, in which case the URL refers to the location of that web
-page on the internet, for example
-[www.civicrm.org](http://www.civicrm.org) is the URL for **CiviCRM**.
+Acronym for Unique Resource Locator, sometimes referred to as a Universal Resource Indicator, or URI. The technical convention that identifies the location of a resource on a network. The resource might be a web page, in which case the URL refers to the location of that web page on the internet, for example [www.civicrm.org](http://www.civicrm.org) is the URL for **CiviCRM**.
 
 ## Use Case
 
-Use case is a central concept in **software** development. A use case is
-a story or scenario that documents the experience of performing a
-specific task with the application. Generally, a use case should avoid
-technical or database-specific language, such as 'fields' or 'record',
-and concentrate on real world objects and scenarios in order to
-communicate the idea clearly to people who may not be familiar with
-technical terms.
+Use case is a central concept in **software** development. A use case is a story or scenario that documents the experience of performing a specific task with the application. Generally, a use case should avoid technical or database-specific language, such as 'fields' or 'record', and concentrate on real world objects and scenarios in order to communicate the idea clearly to people who may not be familiar with technical terms.
 
 ## Version
 
-Updates to **software** are released periodically, and these releases
-are referred to as a version of the software. There are different types
-of version, for example the most recent release of a software which has
-been tested and is intended for general use is referred to as the
-**stable version**, while a very new untested version is the **alpha
-version**.
+Updates to **software** are released periodically, and these releases are referred to as a version of the software. There are different types of version, for example the most recent release of a software which has been tested and is intended for general use is referred to as the **stable version**, while a very new untested version is the **alpha version**.
 
 ## VPN (Virtual Private Network)
 
-A method of sharing information between members of an organisation over
-encrypted connections.
+A method of sharing information between members of an organisation over encrypted connections.
 
 ## Walk List
 
-Is a list created using CiviReport to make it easy for volunteers to go
-door-to-door. This is often done for voter engagement.
+Is a list created using CiviReport to make it easy for volunteers to go door-to-door. This is often done for voter engagement.
 
 ## Web Application
 
-A **software** application that provides a website with additional
-functionality. **CiviCRM** is a web application.
+A **software** application that provides a website with additional functionality. **CiviCRM** is a web application.
 
 ## Webmail
 
-Webmail is email service through a website. The service sends and
-receives email messages for users in the usual way, but provides a web
-interface for reading and managing messages, as an alternative to
-running a mail **client** like Outlook Express or Thunderbird on the
-user's computer. For example a popular and free webmail service is
-[https://mail.google.com/](https://mail.google.com/)
+Webmail is email service through a website. The service sends and receives email messages for users in the usual way, but provides a web interface for reading and managing messages, as an alternative to running a mail **client** like Outlook Express or Thunderbird on the user's computer. For example a popular and free webmail service is [https://mail.google.com/](https://mail.google.com/)
 
 ## Web-Server
 
-A Web server is a computer that is set up with software and networking
-capabilities to deliver Web pages on the Internet or an Intranet. Web
-servers use programs such asApache or IIS to deliver Web pages over the
-http protocol.
+A Web server is a computer that is set up with software and networking capabilities to deliver Web pages on the Internet or an Intranet. Web servers use programs such asApache or IIS to deliver Web pages over the http protocol.
 
 ## Wiki
 
-A web-based **software** that enables anyone to edit content via a web
-browser. Wikipedia is the best known example of a wiki.
+A web-based **software** that enables anyone to edit content via a web browser. Wikipedia is the best known example of a wiki.
 
 ## Wildcard
 
-A character that can match an any number and collection of characters,
-normally represented by **. For example, when used in searches, ab**
-finds ab, abba and abracadabra but not fabulous; **ab** finds fabulous.
+A character that can match an any number and collection of characters, normally represented by **. For example, when used in searches, ab** finds ab, abba and abracadabra but not fabulous; **ab** finds fabulous.
 
 ## WordPress
 
-The most popular CMS in use on the internet today, WordPress integrates
-as of CiviCRM version 4.1 and WordPress version 3.3.1. Prior to these
-versions, CiviCRM didn't work directly with WordPress, although a
-Drupal/CiviCRM installation could be installed in parallel on the same
-server as WordPress. 
+The most popular CMS in use on the internet today, WordPress integrates as of CiviCRM version 4.1 and WordPress version 3.3.1. Prior to these versions, CiviCRM didn't work directly with WordPress, although a Drupal/CiviCRM installation could be installed in parallel on the same server as WordPress. 
 
 ## Work Station
 
-A computer used for working; often in a situation such as an office
-where there are other computers that may include **servers**.
+A computer used for working; often in a situation such as an office where there are other computers that may include **servers**.
 
 ## WYSIWYG (What You See Is What You Get)
 
-An application that provides a visual tool for editing web content, so
-that the user can see how the page will look in the browser as they are
-editing, instead of working in the HTML **code**. See also **rich text
-editor**.
+An application that provides a visual tool for editing web content, so that the user can see how the page will look in the browser as they are editing, instead of working in the HTML **code**. See also **rich text editor**.
