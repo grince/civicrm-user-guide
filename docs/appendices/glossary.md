@@ -263,304 +263,304 @@ Ein webbasierte Online-Diskussions-Werkzeug (siehe [http://forum.civicrm.org/](h
 
 ## FTP (File Transfer Protocol)
 
-Das FTP Protokoll wird benutzt, um Dateien von einem Computer zum anderen über das Internet zu schicken. Viele Leute benutzen FTP für Downloads, aber es kann auch für Uploads auf den Web**Server** verwendet werden. Ein freier und bekannter und **Open Source** FTP **Klient** für Windows ist FileZilla. There are also web-based FTP clients that you can use with a normal web browser like Firefox.
+Das FTP Protokoll wird benutzt, um Dateien von einem Computer zum anderen über das Internet zu schicken. Viele Leute benutzen FTP für Downloads, aber es kann auch für Uploads auf den Web**Server** verwendet werden. Ein freier und bekannter und **Open Source** FTP **Klient** für Windows ist FileZilla. Es gibt auch webbasierte FTP-Clients, die man mit einem normalen Browser wie Firefox nutzen kann.
 
-## Functionality
+## Funktionalität
 
-The set of tasks that a piece of **software** can perform.
+Das Set on Aufgaben, das ein Stück **Software** erledigen kann.
 
 ## Geocoding
 
-The process of finding associated geographic coordinates (often expressed as latitude and longitude) from other geographic data, such as street addresses, or zip codes (postal codes).
+Der Prozess, um Geolokationsdaten (oft in Längen- und Breitengraden ausgedrückt) aus anderen Quellen zu extrahieren (aus Daten wie der Straße+Hausnummer oder Postleitzahlen).
 
-## GUI (Graphical User Interface)
+## GUI (Graphisches BenUtzer Interface)
 
-User interface offering windows, icons, mouse control, multiple fonts, and so on - the normal way for non-programmers to communicate with their computers. The alternative to a GUI is a command line interface with text only.
+Ein Bedienumfeld für normale Nutzer, mit Fenstern, Icons, Mausbenutzung, verschiedene Schriftarten und so weiter. Die Alternative zum GUI ist das Kommandozeilen-Interface, welches textbasiert arbeitet.
 
-## Hook
+## Haken (Hook)
 
-Hooks are a common way to extend systems and a powerful way to extend CiviCRM's functionality, incorporate additional business logic, and even integrate CiviCRM with external systems.
+Hooks sind ein üblicher Weg um Systeme zu erweitern und ein mächtiger Weg um die Funktionalität von CiviCRM zu erweitern, zusätzliche Geschäftslogik zu implementieren und CiviCRM in externe Systeme zu integrieren. Es sind Schnittstellen, an denen man eigene (zusätzliiche) Programmierung für diese zusätzlichen Funktionen einsetzen kann.
 
-## Household
+## Haushalt
 
-Is a family or group of people who share a physical location.
+Ist eine Familie oder eine Gruppe von Personen, die eine physische Umgebung miteinander teilen.
 
 ## Hosting Service
 
-A service (usually commercial) that provides **server** space for your website. Hosting services also can provide physical space to put your own server in so that it is connected to the internet.
+Eine Dienstleistung (üblicherweise kommerziell erbracht), die **Server**platz und Anbindung ans Internet bereitstellt für Deine Webseite. Hosting-Dienstleistung kann auch sein, Deinen eigenen Rechner im Rechenzentrum zu betreiben und so an das Internet zu verbinden.
 
-## ICT
+## IuK (englisch ICT)
 
-Acronym for Information and Communication Technology. 
+Abkürzung für Informations- und Kommunikationstechnologie. 
 
-## Internationalisation: i8n
+## Internationalisation: i18n
 
-The process of making **software** ready for adoption in different countries and different cultures, without the need to modify it technically. This is done by the **developer**(software engineer) when writing the software. See also **Localisation**. 
+Der Prozess, um **Software** in die Lage zu versetzen in unterschiedlichen Ländern und Kulturen nutzen zu können, ohne sie technisch ändern zu müssen. Dies wird von den **Entwickler**n (Software-Ingenieur) beim Schreiben der Software sichergestellt. Siehe auch **Lokalisation**. 
 
 ## Internet Service Provider (ISP)
 
-A business that provides services such as internet access, email,****and website hosting. 
+Eine Firma, die Internetzugang, Email und Server/Webseite-Hosting anbietet. 
 
 ## Intranet
 
-A network of computers that are connected within a home or office but not accessible from outside the local network. 
+Ein Netzwerk von Computern die zuhuase oder im Büro miteinander vernetzt sind, aber nicht von aussen erreichbar sind. 
 
 IT --
 
-Acronym for Information Technology.
+Abkürzung für Informations-Technology.
 
 ## JavaSacript
 
-A scripting language primarily used in web pages to display dynamic content. 
+Eine Skript-Sprache, die hauptsächlich auf Webseiten zum Anzeigen von dynamischen Inhalten benutzt wird. 
 
 ## Joomla!
 
-A **CMS** that can integrate with **CiviCRM** to provide a user interface and additional website functionality ([http://www.joomla.org](http://www.joomla.org/)). 
+Ein **CMS** welches **CiviCRM** integriert um eine Benutzerschnittstelle und zusätzlcihe Webseitenfunktionalität anzubieten 
 
 ## LAMP
 
-Is an acronym for a solution stack of free, open source software, originally coined from the first letters of Linux (operating system), Apache HTTP Server, MySQL (database software) andPerl/PHP/Python, principal components to build a viable general purpose web server.
+Ist eine Abkürzung für eine Open-Source-Lösung zum Hosten von Webseiten, bestehend aus Linux als Betriebssystem, Apache als Webserver, MySQL als Datenbank und Perl/PHP/Python als Programmiersprachen.
 
 ## Linux
 
-A type of operating system (other common operating systems are Windows and Mac OS). Linux has been popular as a web **server** for a long time and is now gaining popularity on personal laptops and desktop computers. Linux is **free software**and**open source.**
+Ein Betriebssystem (andere übliche Betriebssysteme sind Windows und MacOS) Linux has been popular as a web **server** for a long time and is now gaining popularity on personal laptops and desktop computers. Linux ist seit langer Zeit beliebt als Web**Server** und wird nun auch auf Laptops und Desktop-Computern immer bekannter und beliebter.
 
-## Local Computer
+## Lokaler Computer
 
-A computer that runs **CiviCRM** but is not publicly available via the internet. This could be your personal or home computer, or it can be in your office. It can also be called a **client** computer in the context of receiving information from a **server**
+Ein Comptuer auf dem **CiviCRM** läuft, aber ohne Verbindung ins Internet. Das könnte Dein eigener Computer zuhause sein, oder der Computer im Büro. Er kann auch **Klient** genannt werden, wenn er von einem **Server** seine Informationen erhält.
 
-## Localisation: L10n
+## Lokalisation: L10n
 
-The process of translating a product into different languages or adapting a language for a specific country or region. This is done by translators with no need for technical wizardry.
+Der Prozess, ein Produkt in verschiedene Sprachen zu übersetzen oder eine Sprache für ein bestimmtes and oder Region anzupassen; beispielsweise die **Software** in französisch zu übersetzen oder in Kanji von rechts nach links. Dies wird üblicherweise von Übersetzern erledigt, die keine technischen Kenntnisse dafür benötigen.
 
-## Mail Server
+## Mailserver
 
-A computer that transfers email from one computer to another.
+Ein **Server** der Emails von einem zum nächsten Computer transferiert.
 
-## Mapping Provider
+## Karten Provider
 
-A service provider that allows displaying contact locations on maps - Google Maps or Yahoo Maps in **CiviCRM**.
+Ein Service-Provider, der es erlaubt, Kontaktadressen auf einer (Strassen-)Karte in **CiviCRM** anzuzeigen - Google Maps, OpenStreetMaps oder Yahoo Maps.
 
-## Module
+## Modul
 
-A part of a system, also called a **component**. **CiviCRM** includes a number of modules, each of which adds functionality to the basic contact management features. For example, the **CiviEvent** module provides event management functionality. Organisations using CiviCRM can turn modules on or off, according to their needs.
+Ein Teil eines systems, auch **Komponente** genannt. **CiviCRM** enthält eine Reihe von Module, jedes erweitert den Funktionsumfang des Basis-CRM-Systems. Zum Beispiel liefert das **CiviEvent** Modul Funktionalitäten um Veranstaltungen zu verwalten. Organisationen, die CiviCRM nutzen, können einzelne Module an- oder abschalten, je nachdem was sie benötigen.
 
 ## MySQL
 
-A popular database engine. **CiviCRM** uses MySQL to hold its data. MySQL is **free software**. ([http://mysql.com](http://mysql.com))
+Ein bekanntes Datenbanksystem **CiviCRM** nutzt MySQL um seine Daten zu speichern. MySQL ist **Freie Software**. ([http://mysql.com](http://mysql.com))
 
 ## NGO (Non-Governmental Organisation)
 
-A legally constituted non-business organisation with no participation or representation from government. In the United States, this type of organisation is more often referred to as a **Non-profit**. They may be also called civil society organisations or not-for-profits*.*
+Eine rechtlich konstituierte nicht-wirtschaftlich-fungierende Organisation, die kein Teil einer Regierung ist oder diese repräsentiert. In den vereinigten Staaten von Amerika wird dieser Typ von Organisationen oft als **Non-Profit**-Organisation bezeichnet. Alternative Namen für diese Organisationen wären Bürgerrechts-Organisationen oder gemeinnützig.
 
 ## Non-Profit
 
-see **NGO.**
+siehe **NGO.**
 
-## Online Contribution Page
+## Online Spenden Seite
 
-A function of **CiviCRM** which allows the creation of a page on the website where visitors can make online donations using credit cards.
+Eine Funktion von **CiviCRM**, welche die Erstellung einer Seite erlaubt auf der Besucher Spenden via Kreditkarte abgeben können.
 
 ## Open ID
 
-A convenient free system to use a single digital identity across the internet.
+Ein einfaches freies system, um ein einzige digitale Identität quer durch das Internet nutzen zu können. Dabei bekommt jeder Anfrager nur genau das zu sehen was ich ihm zeigen möchte.
 
-## Open Source Software**Software** with **source code** that is publicly available, as opposed to **proprietary software**; see also **FLOSS**. Open source software is based on the philosophy that sharing and collaborating on code leads to better software and greater benefit for everyone.
+## Open Source Software**Software** mit freigelegtem, veröffentlichten **Source Code**, im Gegensatz zu **proprietärer Software**; siehe auch **FLOSS**. Open Source Software basiert auf der Philosophie, dass Teilen und Zusammenarbeit an Code zu besserer Software und damit zu Mehrwert für Jedermann führt.
 
-## Payment Instrument
+## Zahlungsinstrument
 
-Medium or method that is used for online payments.
+Methode oder Mittel, welches for Online-Zahlungen verwendet wird.
 
-## Payment Processor
+## Zahlungsverarbeiter
 
-A company (usually a third party) appointed by a merchant to handle credit card transactions for merchant banks. A payment processor is required to handle online transactions through a system such as **CiviCRM**. 
+Eine Firma (üblicherweise ein Dienstleister), der von einem Verkäufer beauftragt wird, die Kredit- oder Mastrokarten-Transaktionen für die auszahlende Bank durchzuführen. Ein Zahlungsverarbeiter wird benötigt, um Online-Transaktionen durch ein System wie **CiviCRM** durchzuführen. 
 
-## Permissions
+## Berechtigungen
 
-Allow you to limit access for different users to different parts of the system.
+Erlaubt Dir, den Zugriff auf bestimmte Teile des Systems für bestimmte Benutzer einzuschränken.
 
 ## Persönliche Kampagnenseiten
 
-A feature of **CiviCRM** that can be enable to allow **constituents** to create their own fundraising pages.
+Eine Funktion von **CiviCRM** das es **Auftraggebern** erlaubt, eigene Spendenseiten zu kreieren.
 
 ## PHP
 
-The programming language in which the majority of **CiviCRM** is written.
+Die Programmiersprache in der ein Großteil von **CiviCRM** geschrieben ist.
 
 ## Ping
 
-Sending and receiving small amounts of data to and from a server; often used to measure the response time across the network.
+Senden und Empfangen von kleinen Datenpaketen von und zu einem Server. Dies wird oft benutzt um die Antwortzeiten über ein Netzwerk hinweg zu messen.
 
-## Point Person
+## Ansprechpartner (Point Person)
 
-Someone given the responsibility to keep their eye on a certain issue.
+Jeand, der die Verantwortung dafür trägt, auf eine bestimmte Sache zu achten.
 
-## PhoneBank List
+## PhoneBank Liste
 
-A list created using CiviReport to make it easy for volunteers to call constituents en masse. This is often done to invite them to vote, request that they volunteer, take action, or donate.
+Eine Liste, die durch CiviReport erstellt wurde um es den Helfern einfacher zu machen, Interessierte massenhaft anzurufen. Dies wird oft benutzt um diese zur Wahl einzuladen, sie zu fragen ob sie selbst helfen wollen, sich anderswie beteiligen wollen oder spenden wollen.
 
 ## Premium
 
-A gift that can be offered to contributor in exchange for donation. **CiviCRM** allows offering premiums as a part of the donation gathering process.
+Ein Geschenk, welches einem Spender angeboten werden kann für eine Spende. **CiviCRM** erlaubt es, solche Geschenke als Teil des Spendensammel-Prozesses anzubieten.
 
-## Price Sets
+## Preis-Kategorien
 
-A way of storing and re-using complicated price structures for events. For example, you can charge for different elements of an event.
+Ein Weg zur Speicherung und Wieder-Nutzung von komplexen Preisstrukturen für Veranstaltungen. Zum Beispiel kann man für verschiedene Elemente einer Veranstaltung verschiedene Preise verlangen.
 
-## Primary Location
+## Hauptadresse
 
-The information that a **constinutent** wants to be used as their main point of contact for mailings etc.
+Die Information, welche Adresse ein **Wähler** benutzt sehen möchte als Hauptkontaktadresse für Sendungen.
 
 ## Profile
 
-A set of fields used for collecting, modifying, and sharing data. See [Profles](/organising-your-data/profiles.md) for more information.
+Ein Satz aus Feldern um Daten zu sammeln, zu ändern und zu teilen. Siehe [Profle](/organising-your-data/profiles.md) für weitere Informationen.
 
-## Proprietary software
+## Proprietäre Software
 
-Also called **closed software** or closed source software. **Software** licensed so that you cannot access the **source code** and modify it without first coming to an agreement with the authors. See also **open source software**.
+Auch **closed Software** oder Quellgeschlossene Software genannt- **Software**,die so lieznsiert ist dass man den **Source Code** sich nicht ansehen und ändern kann/darf, ohne vorher mit dem Autor eine Vereinbarung darüber zu schließen. Siehe **Open Source Software**.
 
-## Protocol
+## Protokoll
 
-An agreed-upon method of doing something. HTTP and SMTP are two examples, one being an agreement on how to transfer website data across the web, the other an agreement on how email will be transferred across the web. 
+Eine allgemein akzeptierte Methode um Dinge zu tun. HTTP und SMTP sind zwei Beispiele für Protokolle, eines (HTTP) welches beschreibt wie Webseiten-Inhalte transportiert werden und eines (SMTP) wie Emails über das Internet transportiert werden. 
 
-## Radio Button
+## Radio Knopf
 
-An element of a web-based application user interface that allows the user to choose only one of a predefined set of options. Usually indicated by a white circle that can be filled with a click.
+Ein Element einer webbasierten Benutzerschnittstelle einer Anwendung, welches Dir erlaubt eine (einzige) Option aus einem Optionsset auszwählen. Üblicherweise wird dies durch einen Kreis dargestellt, der durch einen Klick ausgefüllt wird.
 
 ## reCAPTCHA
 
-A common tool for testing whether a user is a human or a computer, used to prevent spam.
+Ein übliches Werkzeug um zu bestimmen ob jemand, der etwas ausfüllt, ein Computer oder ein Mensch ist. Damit wird versucht, Spam zu verhindern.
 
-## Requirements
+## Anforderungen
 
-The things that you require a particular **software** application to do.
+Dinge, die Du erwartest dass sie eine bestimmte **Software**anwendung erledigt.
 
 ## Rich Text Editor
 
-A text editor that allows you to add formatting, such as bold, italic and underline, to text (as opposed to just plain text).
+Ein Texteditor, der Dir einfache Formatierungen wie Fettdruck, kursiv und unterstrichenene Text ermöglicht (im Gegensatz zum reinen Texteditor).
 
-## Root Domain
+## Hauptdomain
 
-The 'raw' **URL** of a website without 'www' or any other **subdomain**. For example, [http://civicrm.org/](http://civicrm.org/) is the root domain while [http://www.civicrm.org/](http://www.civicrm.org/) is not.
+Die 'Ur-' **URL** einer Webseite, ohne 'www' oder andere **Unterdomain**s. Beispielsweise ist [http://civicrm.org/](http://civicrm.org/) Die Hauptdomain/URL während [http://www.civicrm.org/](http://www.civicrm.org/) das nicht ist.
 
 ## RSS (Really Simple Syndication) Feed
 
-RSS feeds are a way to publish frequently updated information, either for inclusion on a website or to be read by an RSS reader.
+RSS feeds sind ein einfacher Weg, aktualisierte Informationen zu publizieren und darüber zu informieren, entweder um die Informationen auf anderen Webseiten einzubetten oder sie mit Hilfe eines RSS-Readers zu lesen.
 
 ## RSVP
 
-"Répondez s'il vous plaît", a French phrase that translates to "please respond". Commonly used to request confirmation (or declining) of attendance at an event.
+"Répondez s'il vous plaît", französisch für "Um Antwort wird gebeten". Üblicherweise wird diese Phrase benutzt um die Bestätigung (oder Ablehnung) einer Teilnahme bei einer Veranstaltung zu bekommen.
 
 ## Script
 
-A script is a short programme that does one specific task. Many web pages include scripts to manage user interaction, so that the **server** does not have to send a new page for each change.
+Ein Script ist ein kurzes Programm das eine bestimmte Aufgabe erfüllt. Viele Webseiten benutzen Scripte um Benutzerinteraktion zu ermöglichen, so dass der **Server** nicht jedes Mal eine neu generierte Webseite schicken muss wenn es eine Änderung gibt.
 
 ## Scout
 
-The **CiviCRM** Book Sprint official dog. Scout likes dog biscuits, rolling on the ground, eating snow and proof-reading.
+Der **CiviCRM** Buch Sprint offizielle Hund. Scout mag Hundekekse, auf dem Boden herumrollen, Schnee-Essen und Lektorat.
 
 ## Sendmail
 
-Sendmail is one of the most popular mail transfer agents (MTA) used for handling email on a **server**. Sendmail is free and **open source software**.
+Sendmail ist einer der bekanntesten Mail Transfer-Agenten (MTA), das Programm wird benutzt um Emails auf einem **Server** zu empfangen und zu versenden. Sendmail ist frei und **Open Source Software**.
 
 ## Server
 
-1. Software that "serves" content to a **client**. See **Apache**, or **Mail Server** for two examples. 
+1. Software die einen **Client** mit Inhalten beliefert. Siehe **Apache**, oder **Mail Server** als zwei Beispiele. 
 
-2. A computer that is used primarily to serve content. Any computer can be set up this way, but the term traditionally refers to those that deliver web content. See also **client** computer. 
+2. Ein Computer der primär benutzt wird um Inhalte zu liefern. Jeder Computer kann so aufgesetzt werden, aber der Begriff wird üblicherweise für Computer benutzt, die Web- oder andere Inhalte ausliefern. Siehe auch **Client** Computer. 
 
 ## Shared Hosting
 
-A website hosting service, where multiple websites reside on single **server**.
+Ein Hosting-Dienst, bei dem mehrere verschiedene Webseiten auf einem einzelnen **Server** gehostet werden.
 
 ## Smart Group
 
-A group in **CiviCRM** to which **contacts** are automatically assigned. Smart groups are created by running and then saving a search. They are useful for groups that might change frequently, for example "donations over $1000 in the last month".
+Eine Gruppe in **CiviCRM** zu der **Kontakte** automatisch zugewiesen werden. Smart groups werden durch das Durchführen und dann Speichern einer Suche erstellt. Sie sind nützlich für Gruppen die sich oft ändern, zum Beispiel "Spenden über 1000€ im letzten Monat". Die Sucheparameter werden also gespeichert, die Suche wird aber beim Aufruf neu durchgeführt.
 
 ## SMTP
 
-Simple Mail Transfer Protocol. A standard or **protocol** used by email **software** to transfer (send) email.
+Simple Mail Transfer Protocol. Ein Standard oder **Protokoll** welcher von Email-**Software** zum Ausenden und Empfangen von Mail benutzt wird.
 
 ## Soft Credit
 
-Allows you to credit a **contact** for a donation made by someone, for example the person who inspired the actual donor to make a donation. See **Personal Campaign Pages**.
+Erlaubt Dir, eine Spende einem bestimmten **Kontact** gutzuschreiben, die jemand anderes gemacht hat, zum Beispiel der Person die einen Spender zu seiner Spende inspiriert hat. Siehe **Persönliche Kampagnenseiten**.
 
 ## Software
 
-Applications (also called programs or programmes) that enable specific functionality on your computer. There are many broad categories of software such as web browsers, word processors and email **clients**. Within each category there are many available softwares that perform the functions you require. For example, Firefox and Internet Explorer are two commonly-used web browsers.
+Applikationen (auch Programme genannt) die eine bestimmte Funktionalität auf Deinem Computer ermöglichen. Es gibt viele große Kategorien von Software, wie zum Beispiel Webbrowser, Textprozessoren und Email**Clients**. Innerhalb jeder Kategorie gibt es viele verfügbare Software die Deine Anforderungen umsetzen. Zum Beispiel sind Firefox, Google Chrome und Microsoft Edge drei bekannte Webbrowser.
 
-## Software License
+## Software Lizenz
 
-The terms you must accept before using a piece of **software**.
+Die Bedingungen die Du akzeptieren musst bevor Du **Software** nutzt.
 
-## Source Code**Software** is created by writing instructions that a computer understands. These lines of instructions are known as **code** or source code.
+## Source Code**Software** wird erstellt durch das Schreiben von Instruktionen, die ein Computer versteht. Diese Zeilen von Anweisungen sind auch als **Code** oder **Source Code** bekannt.
 
 ## SSL (Secure Sockets Layer)
 
-One way of making internet communication secure. You can easily see if you are using SSL by looking at the URL in your browser: if it starts with https instead of http, your connection is using SSL.
+Ein Weg um Internetkommunikation sicher (im Sinne von Vertraulich) zu machen. Du kannst leicht erkennen ob Du eine durch SSL verschlüsselte Verbindung nutzt, indem du die URL in Deinem Browser anschaust: Wenn sie mit https anstelle von http anfängt und/oder wenn Du ein grünes Schloß siehst, ist Deine Verbindung mit SSL hinreichend gut verschlüsselt.
 
-## SSL Certificate
+## SSL Zertifikat
 
-Provided by the server to prove its identity, in the same way that a person carries a passport or driving license. See also **SSL** (Secure Sockets Layer).
+Wird von dem Server bereitgestellt um seine Identität zu beweisen. Das ist dasselbe Prinzip wie bei Menschen, die einen Personalausweis oder einen Führerschein mit Foto bei sich tragen. Siehe auch **SSL** (Secure Sockets Layer).
 
-## Stable Version
+## Stabile Version
 
-A version of **software** that has been tested and is considered to be ready for general use.
+Eine Version von **Software** die getestet und für gut/stabil genug für die Allgemeinheit befunden wurde.
 
-## Token[Tokens](/common-workflows/tokens-and-mail-merge.md) are used in **CiviCRM** to insert elements such as a **contact**'s name or a standard greeting into emails being sent from the system. In an email sent to a group of people, the token {first.name} will be replaced with actual name of each message recipient, in the email that each individual receives.
+## Token[Tokens](/common-workflows/tokens-and-mail-merge.md) werden in **CiviCRM** benutzt, um Elemente wie der Name oder die Standardbegrüßung eines **Kontakt**es in Emails einzusetzen die vom System versendet werden. In einer Email, die an eine bestimmte Gruppe von Personen gesendet wird, wird das Token {first.name} durch den jeweiligen Vor- und Nachnamen des Empfängers ersetzt, so dass die Email personalisiert wird.
 
 ## Upgrade
 
-The process of replacing **software** with a newer **version** of the same software. An upgrade may fix bugs, improve security, enable the software to continue to work with upgraded operating systems, or provide new features and other enhancements.****
+Der Prozess zum Ersetzen von **Software** durch eine neuere **Version** derselben Software. Ein Upgrade kann Fehler korrigieren, die Sicherheit der Anwendung erhöhen, der Software ermöglichen mit einer neuen Version des Betriebssystems zusammenzuarbeiten oder neue Features und Erweiterungen enthalten.
 
 ## URL
 
-Acronym for Unique Resource Locator, sometimes referred to as a Universal Resource Indicator, or URI. The technical convention that identifies the location of a resource on a network. The resource might be a web page, in which case the URL refers to the location of that web page on the internet, for example [www.civicrm.org](http://www.civicrm.org) is the URL for **CiviCRM**.
+Abkürzung für "Unique Resource Locator", manchmal auch "Universal Resource Indicator", or "URI" genannt. Die technische Konvention die das orten einer Resource im Netzwerk ermöglicht. Die Resource kann eine Webseite sein, wobei die URL dann auf den Ort der Webseite im Internet verweist, wie zum Beispiel [www.civicrm.org](http://www.civicrm.org) ist die URL für **CiviCRM**.
 
-## Use Case
+## Anwendungsfall (Use Case)
 
-Use case is a central concept in **software** development. A use case is a story or scenario that documents the experience of performing a specific task with the application. Generally, a use case should avoid technical or database-specific language, such as 'fields' or 'record', and concentrate on real world objects and scenarios in order to communicate the idea clearly to people who may not be familiar with technical terms.
+Anwendungsfälle sind ein zentrales Konzept in der **Software**-Entwicklung. Ein Anwendungsfall ist eine Geschichte oder ein Szenario das die Erfahrung dokumentiert, wie eine bestimmte Aufgabe mit der Anwendung ausgeführt wird.. Generell sollte ein solcher Anwendungsfall keine technischen oder datenbankspezifische Terminologie enthalten, wie zum Beispiel die Begriffe 'Feld' oder 'Datensatz' und sollte sich auf die Szenarien und Objekte der echten Welt beziehen, um die Idee auch den Personen verständlich zu machen die nicht mit den technischen Begriffen geläufig sind.
 
 ## Version
 
-Updates to **software** are released periodically, and these releases are referred to as a version of the software. There are different types of version, for example the most recent release of a software which has been tested and is intended for general use is referred to as the **stable version**, while a very new untested version is the **alpha version**.
+Updates zu **Software** werden üblicherweise periodisch herausgegeben, und diese Ausgaben werden üblicherweise als Versionen benannt. Es gibt verschiedene Typen von Versionen, zum Beispiel das neueste Release einer Software, das getestet und gut genug für die Allgemeinheit befunden wurde wird üblicherweise **stabile Version** genannt, während eine sehr neue, ungetestete Version die **Alpha Version** ist.
 
 ## VPN (Virtual Private Network)
 
-A method of sharing information between members of an organisation over encrypted connections.
+Eine Methode, um Informationen zwischen zwei Mitgliedern einer Organisation über eine verschlüsselte Verbindung auszutauschen.
 
-## Walk List
+## Geh-Liste
 
-Is a list created using CiviReport to make it easy for volunteers to go door-to-door. This is often done for voter engagement.
+Ist eine Liste, die von CiviReport erstellt wird, um es für Freiwillige einfacher macht, von Tür zu Tür zu gehen. Dies wird oft benutzt, um Wähler zu unterstützen.
 
-## Web Application
+## Web Applikation
 
-A **software** application that provides a website with additional functionality. **CiviCRM** is a web application.
+Eine **Software**-Applikation, die eine Webseite mit zusätzlicher Funktionalität unterstützt. **CiviCRM** ist eine Web Applikation.
 
 ## Webmail
 
-Webmail is email service through a website. The service sends and receives email messages for users in the usual way, but provides a web interface for reading and managing messages, as an alternative to running a mail **client** like Outlook Express or Thunderbird on the user's computer. For example a popular and free webmail service is [https://mail.google.com/](https://mail.google.com/)
+Webmail ist Email mit Hilfe einer Webseite. Der Dienst sendet und empfängt Emails für Benutzer über die üblichen Wege, bietet aber eine Benutzerschnittstelle über das Web an, um diese Mails anzuzeigen oder zu verwalten. Dies ist eine Alternative zum herkömmlichen Email **Klient**, wie Outlook Express oder Mozilla Thunderbird. Ein berühmter und kostenloser Webmail Service ist [https://mail.google.com/](https://mail.google.com/)
 
 ## Web-Server
 
-A Web server is a computer that is set up with software and networking capabilities to deliver Web pages on the Internet or an Intranet. Web servers use programs such asApache or IIS to deliver Web pages over the http protocol.
+Ein Web-Server ist ein Computer, der so aufgesetzt ist, dass er die Software enthält und Netzwerkmöglichkeiten hat, Webseiten an das Inter- oder Intranet auszuliefern. Webserver nutzen Programme wie "Apache Webserver" oder "IIS" um Webseiten über das http Protokoll auszuliefern.
 
 ## Wiki
 
-A web-based **software** that enables anyone to edit content via a web browser. Wikipedia is the best known example of a wiki.
+Eine Web-basierte **Software** die es jedermal erlaubt, Inhalte über einen Webbrowser zu ändern. Wikipedia ist das bekannteste Beispiel für ein Wiki.
 
 ## Wildcard
 
-A character that can match an any number and collection of characters, normally represented by **. For example, when used in searches, ab** finds ab, abba and abracadabra but not fabulous; **ab** finds fabulous.
+Ein Zeichen das alle Nummern und Zeichen bei einer Suche darstellt, dies wird üblicherweise durch ein ** repräsentiert. Beispielsweise findet man mit dem Suchbegriff "ab**" ab, abba und abrakadabra, aber nicht fabelhaft (weil es nicht mit ab beginnt)
 
 ## WordPress
 
-The most popular CMS in use on the internet today, WordPress integrates as of CiviCRM version 4.1 and WordPress version 3.3.1. Prior to these versions, CiviCRM didn't work directly with WordPress, although a Drupal/CiviCRM installation could be installed in parallel on the same server as WordPress. 
+Das wohl bekannteste CMS heutzutage. Wordpress ab Version 3.3.1 integriert CiviCRM ab Version 4.1. Vor diesen Versionen konnte CiviCRM nicht direkt mit Wordpress zusammenarbeiten, auch wenn eine Drupal/CiviCRM-Installation, auf demselben Server parallel installiert werden konnte. 
 
-## Work Station
+## Workstation
 
-A computer used for working; often in a situation such as an office where there are other computers that may include **servers**.
+Ein Computer der für die übliche Arbeit verwendet wird; oft in einem Büro wo auch **Server** stehen können.
 
 ## WYSIWYG (What You See Is What You Get)
 
-An application that provides a visual tool for editing web content, so that the user can see how the page will look in the browser as they are editing, instead of working in the HTML **code**. See also **rich text editor**.
+Eine Anwendung, die ein visuelles Werkzeug zur Änderung von Webseiten bereitstellt,so dass der Anwender gleich sehen kann wie seine Webseite im Browser aussehen wird. Hier wird das Ergebnis angezeigt, nicht der sogenannte HTML-Code, aus dem eine Webseite besteht. Siehe auch **Rich Text Editor**.
