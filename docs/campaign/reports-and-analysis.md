@@ -1,25 +1,13 @@
-# Reports and analysis
+# Berichte und Analysen
 
-There a few searching and reporting tools at your disposal to report and
-analyse your campaigns.
+Es gibt einige Such- und Berichtswerkzeuge für Dich, um Berichte und Analysen über Deine Kampagnen zu erstellen.
 
-## Campaign searches
+## Kampagnen-Suche
 
-All searches for components that can be part of a campaign have a
-campaign filter so that you can search for events, contributions, etc.
-based on campaign. Similarly the tabs for components in advanced search
-also have a campaign filter so you can search for contacts based on
-their participation in campaigns. 
+Alle Suchen nach Komponenten, die Teil einer Kampagne sein können, haben einen entsprechenden Kampagnen-Filter, so dass man alle zu einer Kampagne gehörenden Veranstaltungen, Zuwendungen und anderem suchen kann. Ebenso haben die Tabs zu den Komponenten in der Erweiterten Suche einen Kampagnen-Filter, so dass man auch nach Kontakten basierend an ihrer Teilnahme bei Kampagnen suchen kann. 
 
-## Campaign reports
+## Kampagnen-Berichte
 
-As campaigns can be made up of many components there is no specific
-campaign report. Instead, once CiviCampaign has been enabled you will be
-able to add a column showing the associated campaign to contribution,
-pledge, event, mailing and membership reports. In addition you will be
-able to "filter by campaign" to restrict the records displayed in these
-reports.
+Da Kampagnen aus vielen Komponenten bestehen können gibt es keinen Standard-Kampagnen-Bericht. Stattdessen kann man - sobald CiviCampaign aktiviert wurde - zusätzliche Spalten in einen Bericht integrieren, die die zugehörige Kampagne zu Zuwendungs-, Spenden-, Veranstaltungs-, Mailings- und Mitgliederberichten. Zusätzlich kannst Du nach Kampagnen filtern, um die in dem Bericht verarbeiteten und angezeigten Datensätze einzugrenzen.
 
-The activity report can be configured to display both the campaign and
-the engagement index and can also be filtered on either or both
-criteria.
+Der Aktivitätsbericht kann so konfiguriert werden, dass er eimal den Kampagnen, aber auch den Engagement-Index anzeigt und kann nach beiden kriterien gefiltert werden.
