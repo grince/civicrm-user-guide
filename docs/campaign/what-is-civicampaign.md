@@ -1,64 +1,33 @@
-# What is CiviCampaign?
+# Was ist CiviCampaign?
 
-CiviCampaign lets you link together events, mailings, activities, and
-contributions under one "umbrella" so that you can track the progress of
-all your efforts towards one programmatic goal or campaign. This enables
-organizations to measure and analyze the effectiveness of their outreach
-and mobilization efforts.
+CiviCampaign lässt Dich Veranstaltungen, Mailings, Aktivitäten und Zuwendungen unter einem "Schirm" zusammenfassen, so dass Du den Verlauf Deiner Anstrengungen zu einem Ziel hin dokumentieren kannst. Das erlaubt Organisationen, die Effektivität ihrer Kontakte und Mobilisierungs-Anstrengungen zu messen und zu analysieren.
 
-CiviCampaign allows you to:
+CiviCampaign erlaubt Dir:
 
--   create surveys and petitions
--   record responses to surveys and petitions
--   link activity such as donations, mailings and events to a particular
-    campaign
--   track who has voted using Get Out The Vote (GOTV)
--   record individual members' levels of interest and engagement in a
-    particular activity.
+-   Umfragen und Petitionen zu erstellen
+-   Antworten zu Umfragen und Petitionen aufzuzeichnen
+-   Aktivitäten wie Zuwendungen, Mailings und Veranstaltungen mit einer bestimmten Kampagne zu verlinken
+-   nachzuvollziehen, wer mit Hilfe von Get Out The Vote (GOTV) gewählt hat
+-   das Interesse und Engagement einzelner Mitglieder bei einer bestimmten Aktivität zu messen.
 
-CiviCampaign is integrated with other CiviCRM components so that you can
-select which activities are part of of the overall campaign or goal.
+CiviCampaign ist mit anderen CiviCRM-Komponenten integriert, so dass Du auswählen kannst, welche Aktivitäten Teil der generellen Kampagne oder des allgemeinen Zieles sind.
 
-For Drupal sites, the CiviEngage module enhances CiviCampaign by
-providing a package of custom fields that enable the Survey and Petition
-features of CiviCampaign. Read more about CiviEngage in the Civic
-Engagement section.
+Für Drupal Webseiten verbessert das CiviEngange-Module CiviCampaing, indem es ein Paket von gebräuchlichen Feldern bereitstellt, die die Umfragen und Petitions-Funktionen von CiviCampaign ermöglichen. Lies mehr über CiviEngage im Kapitel über bürgerliches Engagement.
 
-## Scenario: Year-long mobilization campaign
+## Szenario: Eine ganzjährige Mobilisierungs-Kampagne.
 
-To kick off a year-long campaign to mobilize community members, the
-Townsville Organisation For Tenants (TOFT) held a protest at the
-Capitol. The campaign organizers use CiviCampaign to associate all
-related campaign activities together over the course of the campaign.
+Um eine ganzjährige Kampagne zur Mobilisierung von Community-Mitgliedern zu starten, hielt die Townsville Organisation For Tenants (TOFT) einen Protest am Kapitol ab. Die Kampagnen-Organisatoren nutzten CiviCampagin, um alle durch die Kampagne organisierten und assoziierten Aktivitäten im Laufe der Kampagne koordinieren zu können.
 
-The lead organizer created a campaign called "Mobilize the Masses 2011"
-to link a series of related activities including communications about
-the mobilizing event, participation and financial contributions for
-transport and food during the action.
+Der Hauptorganisator erstellte eine Kampagne, die er "Mobilisiere die Massen 2011" nannte, um eine Serie von damit verbundenen Aktivitäten miteinander zu verlinken, inklusive Kommunikation über die Mobilisierungs-Veranstaltung selbst, die Teilnahme und Zuwendungen für Transport und Essen während der Aktion.
 
-Using CiviCampaign, the organisers:
+Indem sie CiviCampaign benutzten, waren die Organisatoren in der Lage:
 
--   created a Campaign as the umbrella for all related activities,
-    including the duration of the campaign and the revenue goal
--   created a group consisting of the individuals they wanted to target
-    for the activities in the campaign
--   called their most active members to help organize other constituents
-    in their neighborhoods to participate, and recorded the activity
-    phone call in the individual's record, indicating the specific
-    campaign and the member's response 
--   sent a mass fundraising mailing and indicated the campaign, which
-    was then recorded in the contribution information of individuals'
-    records
--   created an event to track who will be attending the mobilization,
-    and indicate the campaign in the event setup.
+-   eine "Über-"Kampagne zu erstellen, um alle verbundenen Aktivitäten, auch während der gesamten Laufzeit der Kampagne und das Ertrags-Ziel im Auge zu behalten
+-   eine Gruppe bestehend aus den Individuen zu erstellen, welche sie als Ziel für die Aktivitäten dieser Kampagne erreichen wollten
+-   ihre aktiven Mitglieder anzurufen, um Hilfe für anderen Wähler in der Nachbarschaft zu organisieren, und zeichneten die Telefonanrufe im Datensatz der einzelnen Person auf, um die Antwort des Mitglieds auf diese spezifische Kampagne aufzuzeichnen 
+-   eine Massen-Email für eine Spendenaktion auszusenden und die Kampagne anzugeben, woraufhin die Information über Zuwendungen im Datensatz der Person gespeichert werden konnten
+-   Eine Veranstaltung zu erstellen um aufzuzeichnen, wer bei der Mobilisierung dabei sein würde und die Kampagne im Veranstaltungs-Aufbau anzuzeigen.
 
-Periodically throughout the campaign, the program lead searches all of
-the activities related to the campaign, and/or individuals who have
-activities related to the campaign, to monitor the effectiveness of
-their outreach and fundraising efforts, and if necessary adjust
-strategies.
+Während der Kampagne führte das Programm regelmäßig Suchen durch, bei der alle zu der Kampagne gehörigen Aktivitäten und/oder Personen, die zugehörige Aktivitäten durchführten zusammengeführt wurden, um die Effektivität der Kontakte und der Spendenkampagne zu monitoren und gegebenenfalls die Strategie anzupassen.
 
-Organizers can relate subsequent events, mailings, and other activities
-with the same campaign as it proceeds over the course of the year. At
-the end of the campaign this information can be reviewed within the
-context of the whole campaign.
+Organisatoren können folgende Veranstaltungen, Mails und andere Aktivitäten durch dieselben Kampagne verbinden während sie das Jahr über läuft. Am Ende der Kampagne können alle diese Informationen im Zusammenhang der gesamten Kampagne reviewed und überprüft werden.

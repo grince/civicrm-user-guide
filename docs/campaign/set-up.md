@@ -1,80 +1,58 @@
-# Set-up
+# Aufsetzen von CiviCampaign
 
-This chapter will help you to set up CiviCampaign so that you can track
-related activities such as contributions, surveys, and mailings that are
-part of a particular campaign or project. 
+Dieses Kapitel wird Dir helfen, CiviCampaign so aufzusetzen, dass Du Aktivitäten (zu denen Zuwendungen, Umfragen und Mailings gehören), die einer bestimmten Kampagne oder einem Projekt zugeordnet werden können, verfolgen kannst. 
 
-## Enable CiviCampaign 
+## Aktiviere CiviCampaign 
 
-First, you need to enable the CiviCampaign component.
+Zuerst musst Du die CiviCampaign-Komponente aktivieren.
 
-1.  Go to **Administer > System Settings > Components**.
-2.  Select **CiviCampaign** and click **Enable** then **Save** 
+1.  Gehe zu **Administer > System Settings > Components**.
+2.  Wähle **CiviCampaign** aus und drücke# **Enable** und dann **Save** 
 
-Once CiviCampaign is enabled, it will show up as the new menu item
-**Campaigns** located along the top of your CiviCRM screen.
+Sobald CiviCampaign aktiviert ist, wird ein neues Menüfeld **Campaigns** zu sehen sein, welches am oberen Rand des CiviCRM-Bildschirms zu sehen ist.
 
-## Add a new campaign type
+## Setze einen neuen Kampagnen-Typ auf.
 
-CiviCampaign provides three default campaign types:
+CiviCampaign bietet von sich aus drei Standard-Kampagnen-Typen an:
 
--   Direct Mail
--   Referral Program
--   Constituent Engagement
+-   Direkte Mail
+-   Empfehlungs-Programm
+-   Aktiven-Engagement
 
-You can add any campaign type that is appropriate for your work (and
-disable those that aren't).
+Du kannst jeglichen Kampagnen-Typ hinzufügen, der für Deine Arbeit passt (und die, die nicht passen, deaktivieren).
 
-To add a new campaign type:
+Um einen neuen Kampagnen-Typ hinzuzufügen:
 
-1.  Go to **Administer > CiviCampaign > Campaign Types**. 
-2.  This will display a list of existing campaign types: 
+1.  Gehe zu **Administer > CiviCampaign > Campaign Types**. 
+2.  Dies wird Dir alle existierenden Kampagnen-Typen auflisten: 
      
     ![column headers are: label, value (unique number), description, order, reserved, enabled (yes or no)](/img/campaign_configuration_typeoptions_1.png)
-3.  Click on **Add Campaign Type**, and give the new type a label and a
-    description (optional).
-4.  Optionally, change the default weight: this affects the order in
-    which this new event type appears in drop-down menus (smallest
-    numbers appear highest).
-5.  Click **Save**.
+3.  Klicke auf **Add Campaign Type**, und gib dem neuen Typ einen Namen und eine (optionale) Beschreibung.
+4.  Zusätzlich kannst Du die Standard-Gewichtung ändern: Dieses ändert die Abfolge in der neue Veranstaltungstypen im Drop-Down-Menü erscheinen (die kleinste Nummer erscheint zuerst).
+5.  Klicke **Save**.
 
-The next time you add a new campaign, this campaign type will be
-available to assign to your new campaign.
+Beim nächsten Mal, wenn Du eine neue Kampagne erstellst, wird dieser Kampagnent auch zur Verfügung stehen.
 
-## Campaign status
+## Kampagnenstatus
 
-Assigning a status to your campaign allows you to internally track which 
-stage a given campaign is in.
+Der Kampagne einen Status zu vergeben erlaubt Dir, die Phase zu tracken in der die Kampagne sich gerade befindet.
 
-1.  Go to **Administer > CiviCampaign > Campaign Status**. 
-    The default statuses are Planned, In Progress, Completed, and
-    Cancelled.
-2.  Click **Add Campaign Status**, give it a name and, optionally, a
-    description.
-3.  Changing the weight is not necessary but will affect the order in
-    which this new status appears in drop-down menus.
-4.  Click **Save** and the new status will then be available to assign
-    to campaigns.
+1.  Gehe zu **Administer > CiviCampaign > Campaign Status**. Die Standard-Stati sind "Planned" (Geplant / In Vorbereitung), "In Progress" (Laufend), "Completed" (Beendet) und "Cancelled" (ausgesetzt).
+2.  Klicke **Add Campaign Status**, vergib einen Namen und, wenn Du magst, eine Beschreibung.
+3.  Die Gewichtung zu ändern ist nicht notwendig, wird aber die Reihenfolge der Anzeige in den Drop-Down-Menüs beeinflussen.
+4.  Klicke **Save** und der neue Status wird verfügbar sein, um ihn bei Kampagnen zu benutzen.
 
 ![overview of campaign statuses. Column headers are: label, value, description, order, reserved (yes or no), enabled (yes or no)](/img/campaign_configuration_statuses.png)
 
-## Engagement index 
+## Engagement-index 
 
-CiviCampaign allows you to track an individual's level of
-interest/engagement in a particular activity. The Engagement Index can
-be recorded for general activities or actions, i.e. Send an Email,
-Meeting, Phone Call, Interview, and any additional custom
-activities/actions you create. To find out more about how to record an
-activity to an individual, see Contacts in the Organising Your Data
-section. 
+CiviCampaign erlaubt dir, das Interesse und Engagement von einzelnen Personen in einer bestimmten Aktivität aufzuzeichnen. Der Engagement-Index kann für generelle Aktivitäten oder Aktionen aufgenommen werden (wie zB das Versenden von Emails, Besprechungen, Telefongespräche) und auch jede andere zusätzlcihe Aktivität die Du erstellst. Um mehr über das Zuweisen von Aktivitäten zu einer Person zu erfahren, schaue Dir das Kapitel "Kontakte" in der "Organisiere Deine Daten"-Sektion an. 
 
-To configure the Engagement Index:
+Um den Engagement Index zu konfigurieren:
 
-1.  Go to **Administer > CiviCampaign > Engagement Index**.
-2.  Configure the engagement index as a number, e.g. 1 is a high level
-    of engagement, and 5 is low level of engagement.
+1.  Gehe zu **Administer > CiviCampaign > Engagement Index**.
+2.  Konfiguriere den Engagement-Index als eine Nummer, zum Beispiel kann 1 ein hohes Level an Engagement sein, während 5 ein niedriges Level darstellt.
 
-This information can supplement your outreach employees' or organizers'
-assessment of member engagement/interest in your organization.
+Diese Information kann Dich bei der Einschätzung der Angestellten- oder Organisatoren am Mitgliederengagement bzw. Interesse an Deiner Organsation unterstützen.
 
 ![overview of engagement index options. Columns headers are: label, value, description, order, reserved (yes or no), enabled (yes or no). Each option can be edited, disabled, or deleted.](/img/campaign_configuration_engageoptions.png)
